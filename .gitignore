@@ -1,0 +1,14 @@
+**/raw_data/
+**/qas/data/
+**/data/human_data/
+**/wandb/
+# **/trash/
+**/extras/
+**/.env
+**/*.out
+**/__pycache__/
+**/.hydra/
+**/.vscode/
+**/output_*
+*.sh
+**/outputs/

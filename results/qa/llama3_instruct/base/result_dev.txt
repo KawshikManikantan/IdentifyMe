@@ -1,0 +1,6 @@
+Total: 600
+Correct: 301
+Other Correct: 0
+Phrase Correct: 527
+Correlation Count: 270
+Accuracy: 301/600 = 0.5016666666666667

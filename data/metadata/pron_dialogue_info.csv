@@ -1,0 +1,1801 @@
+doc_key,mention_ind,is_dialogue,output_string
+5230_the_invisible_man_a_grotesque_romance_brat_0,132,True,"- Mention: I
+- Sentence: "" I suppose I may have them to dry now , "" she said in a voice that brooked no denial .
+- Is the sentence a dialogue or part of dialogue: True"
+502_desert_gold_brat_0,149,True,"- Mention: his
+- Sentence: ""I do n't know the country, but to me one place is the same as another,"" replied his companion.
+- Is the sentence a dialogue or part of dialogue: True"
+805_this_side_of_paradise_brat_0,244,True,"- Mention: {{I}} (#This is the marked mention)
+- Sentence: ""Ah, Bishop Wiston, {{I}} do not want to talk of myself. I can imagine the stream of hysterical women fluttering at your doors, beseeching you to be simpatico -- then after an interlude filled by the clergyman -- ""but my mood -- is -- oddly dissimilar.""
+- Is the sentence a dialogue or part of dialogue: True"
+2891_howards_end_brat_0,138,False,"- Mention: {{you}}
+- Sentence: ""Much love. Modified love to Tibby. Love to Aunt Juley; how good of her to come and keep {{you}} company, but what a bore.""
+- Is the sentence a dialogue or part of dialogue: False"
+4276_north_and_south_brat_0,183,False,"- Mention: she
+- Sentence: In this she was but her mother 's child ; who , after deliberately marrying General Shaw with no warmer feeling than respect for his character and establishment , was constantly , though quietly , bemoaning her hard lot in being united to one whom she could not love .
+- Is the sentence a dialogue or part of dialogue: False"
+5230_the_invisible_man_a_grotesque_romance_brat_0,133,True,"- Mention: I
+- Sentence: ""I suppose I may have them to dry now,"" she said in a voice that brooked no denial.
+- Is the sentence a dialogue or part of dialogue: True"
+1400_great_expectations_brat_0,155,True,"- Mention: your
+- Sentence: ""Now lookee here ! "" said the man . "" Where 's your mother ? ""
+- Is the sentence a dialogue or part of dialogue: True"
+113_the_secret_garden_brat_0,46,True,"- Mention: she
+- Sentence: ""I am Mary Lennox,"" the little girl said, drawing herself up stiffly. She thought the man was very rude to call her father's bungalow ""A place like this!"" ""I fell asleep when everyone had the cholera and I have only just wakened up. Why does nobody come?""
+- Is the sentence a dialogue or part of dialogue: True"
+805_this_side_of_paradise_brat_0,218,True,"- Mention: her
+- Sentence: ""They pick up old , moth-eaten London accents that are down on their luck and have to be used by some one . They talk as an English butler might after several years in a Chicago grand-opera company . "" She became almost incoherent -- "" Suppose -- time in every Western woman 's life -- she feels her husband is prosperous enough for her to have -- accent -- they try to impress _ me _ , my dear -- ""
+- Is the sentence a dialogue or part of dialogue: True"
+969_the_tenant_of_wildfell_hall_brat_0,236,False,"- Mention: she
+- Sentence: She is called Mrs. Graham, and she is in mourning — not widow's weeds, but slightish mourning — and she is quite young, they say, — not above five or six and twenty, — but so reserved!
+- Is the sentence a dialogue or part of dialogue: False"
+74_the_adventures_of_tom_sawyer_brat_0,227,True,"- Mention: I
+- Sentence: ""I 'll learn him ! ""
+- Is the sentence a dialogue or part of dialogue: True"
+18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat_0,33,True,"- Mention: you
+- Sentence: "" I thought you had become reconciled -- no , I do not mean that , -- I thought your regret might be less poignant . ""
+- Is the sentence a dialogue or part of dialogue: True"
+5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat_0,157,True,"- Mention: I
+- Sentence: ""This coat once belonged to General Washington,"" said Dick, comically. ""He wore it all through the Revolution, and it got torn some, 'cause he fit so hard. When he died he told his widder to give it to some smart young feller that had n't got none of his own; so she gave it to me. But if you 'd like it, sir, to remember General Washington by, I'll let you have it reasonable.""
+- Is the sentence a dialogue or part of dialogue: True"
+113_the_secret_garden_brat_0,21,False,"- Mention: She
+- Sentence: She had not wanted a little girl at all, and when Mary was born she handed her over to the care of an Ayah, who was made to understand that if she wished to please the Mem Sahib she must keep the child out of sight as much as possible.
+- Is the sentence a dialogue or part of dialogue: False"
+18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat_0,246,True,"- Mention: you
+- Sentence: ""Have you so specified in your will ? "" asked Curtis .
+- Is the sentence a dialogue or part of dialogue: True"
+209_the_turn_of_the_screw_brat_0,128,True,"- Mention: he
+- Sentence: ""She was a most charming person, but she was ten years older than I. She was my sister's governess,"" he quietly said.
+- Is the sentence a dialogue or part of dialogue: True"
+2641_a_room_with_a_view_brat_0,168,True,"- Mention: your
+- Sentence: ""Eat {{your}} (#This is the marked mention) dinner, dear,"" she said to Lucy, and began to toy again with the meat that she had once censured.
+- Is the sentence a dialogue or part of dialogue: True"
+1260_jane_eyre_an_autobiography_brat_0,172,True,"- Mention: you
+- Sentence: ""I want you to come here ; "" and seating himself in an arm-chair , he intimated by a gesture that I was to approach and stand before him.
+- Is the sentence a dialogue or part of dialogue: True"
+1342_pride_and_prejudice_brat_0,126,True,"- Mention: you
+- Sentence: ""I will send a few lines by you to assure him of my hearty consent to his marrying whichever he chooses of the girls; though I must throw in a good word for my little Lizzy.""
+- Is the sentence a dialogue or part of dialogue: True"
+95_the_prisoner_of_zenda_brat_0,2,True,"- Mention: I
+- Sentence: ""I wonder when in the world you 're going to do anything , Rudolf ? "" said my brother 's wife .
+- Is the sentence a dialogue or part of dialogue: True"
+2641_a_room_with_a_view_brat_0,222,True,"- Mention: {{she}}
+- Sentence: ""Miss Honeychurch lives in the parish of Summer Street,"" said Miss Bartlett, filling up the gap, ""and {{she}} happened to tell me in the course of conversation that you have just accepted the living --""
+- Is the sentence a dialogue or part of dialogue: True"
+233_sister_carrie_a_novel_brat_0,234,True,"- Mention: you
+- Sentence: ""If you are going there, you will enjoy it immensely. Have you relatives?""
+- Is the sentence a dialogue or part of dialogue: True"
+432_the_ambassadors_brat_0,126,True,"- Mention: he
+- Sentence: ""Oh yes, "" he replied, ""my very well-known friend. He's to meet me here, coming up from Malvern, and I supposed he'd already have arrived. But he doesn't come till later, and I'm relieved not to have kept him. Do you know him?"" Strether wound up.
+- Is the sentence a dialogue or part of dialogue: True"
+45_anne_of_green_gables_brat_0,239,True,"- Mention: you
+- Sentence: ""I was kind of afraid you were n't, though, when I saw Matthew starting off today.""
+- Is the sentence a dialogue or part of dialogue: True"
+1342_pride_and_prejudice_brat_0,265,True,"- Mention: my
+- Sentence: ""Then, my dear, you may have the advantage of your friend, and introduce Mr. Bingley to her.""
+- Is the sentence a dialogue or part of dialogue: True"
+76_adventures_of_huckleberry_finn_brat_0,273,True,"- Mention: {{I}}
+- Sentence: ""Well, I know what I 's gwyne to do : I 's gwyne to set down here and listen tell {{I}} hears it agin .""
+- Is the sentence a dialogue or part of dialogue: True"
+2641_a_room_with_a_view_brat_0,49,True,"- Mention: I
+- Sentence: ""Charlotte, you mustn't spoil me: of course, you must look over the Arno, too. I meant that.""
+- Is the sentence a dialogue or part of dialogue: True"
+2005_piccadilly_jim_brat_0,191,True,"- Mention: You
+- Sentence: ""You dropped it there when you heard me come in.""
+- Is the sentence a dialogue or part of dialogue: True"
+5230_the_invisible_man_a_grotesque_romance_brat_0,110,True,"- Mention: her
+- Sentence: ""There ! I clean forgot it. It 's her being so long !""
+- Is the sentence a dialogue or part of dialogue: True"
+5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat_0,153,True,"- Mention: me
+- Sentence: ""He wore it all through the Revolution, and it got torn some, 'cause he fit so hard. When he died he told his widder to give it to some smart young feller that had n't got none of his own; so she gave it to me.""
+- Is the sentence a dialogue or part of dialogue: True"
+217_sons_and_lovers_brat_0,269,True,"- Mention: you
+- Sentence: ""You need n't come if you do n't want , "" she said.
+- Is the sentence a dialogue or part of dialogue: True"
+2852_the_hound_of_the_baskervilles_brat_0,129,True,"- Mention: I
+- Sentence: ""Then I was right.""
+- Is the sentence a dialogue or part of dialogue: True"
+78_tarzan_of_the_apes_brat_0,216,False,"- Mention: his
+- Sentence: ""But just that instant the officer turned to leave Lord and Lady Greystoke, and, as he did so, tripped against the sailor and sprawled headlong upon the deck, overturning the water-pail so that he was drenched in its dirty contents.""
+- Is the sentence a dialogue or part of dialogue: False"
+209_the_turn_of_the_screw_brat_0,119,True,"- Mention: he
+- Sentence: ""She was a most charming person, but she was ten years older than I. She was my sister's governess,"" he quietly said.
+- Is the sentence a dialogue or part of dialogue: True"
+217_sons_and_lovers_brat_0,156,True,"- Mention: You
+- Sentence: ""You can have your dinner as soon as it 's done,"" replied the mother.
+- Is the sentence a dialogue or part of dialogue: True"
+105_persuasion_brat_0,156,False,"- Mention: she
+- Sentence: To Lady Russell, indeed, she was a most dear and highly valued god-daughter, favourite, and friend.
+- Is the sentence a dialogue or part of dialogue: False"
+233_sister_carrie_a_novel_brat_0,214,True,"- Mention: you
+- Sentence: ""If you are going there, you will enjoy it immensely. Have you relatives?""
+- Is the sentence a dialogue or part of dialogue: True"
+2852_the_hound_of_the_baskervilles_brat_0,20,True,"- Mention: you
+- Sentence: "" How did {{you}} (#This is the marked mention) know what I was doing ? I believe you have eyes in the back of your head . ""
+- Is the sentence a dialogue or part of dialogue: True"
+502_desert_gold_brat_0,204,False,"- Mention: {{him}}
+- Sentence: ""In those years only three men had wandered into the desert with {{him}} (#This is the marked mention) , and these had left their bones to bleach in the shifting sands.""
+- Is the sentence a dialogue or part of dialogue: False"
+2005_piccadilly_jim_brat_0,109,True,"- Mention: Ogden Ford
+- Sentence: ""I wish you would not eat candy all day.""
+- Is the sentence a dialogue or part of dialogue: True"
+18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat_0,216,True,"- Mention: your
+- Sentence: ""Believe me, sir,"" said Curtis, with faltering voice, feigning an emotion which he did not feel, ""believe me, that I fully appreciate your goodness. I am sure Florence joins with me ----""
+- Is the sentence a dialogue or part of dialogue: True"
+174_the_picture_of_dorian_gray_brat_0,71,True,"- Mention: he
+- Sentence: ""I know you will laugh at me,"" he replied, ""but I really can't exhibit it. I have put too much of myself into it.""
+- Is the sentence a dialogue or part of dialogue: True"
+1342_pride_and_prejudice_brat_0,142,True,"- Mention: you
+- Sentence: ""But I desire you will do no such thing. Lizzy is not a bit better than the others; and I am sure she is not half so handsome as Jane, nor half so good-humoured as Lydia. But you are always giving her the preference.""
+- Is the sentence a dialogue or part of dialogue: True"
+24_o_pioneers_brat_0,134,True,"- Mention: my kitten
+- Sentence: ""My kitten , sister, my kitten ! A man put her out , and a dog chased her up there.""
+- Is the sentence a dialogue or part of dialogue: True"
+174_the_picture_of_dorian_gray_brat_0,39,True,"- Mention: I
+- Sentence: "" I do n't think I shall send it anywhere , "" he answered , tossing his head back in that odd way that used to make his friends laugh at him at Oxford .
+- Is the sentence a dialogue or part of dialogue: True"
+502_desert_gold_brat_0,139,True,"- Mention: I
+- Sentence: "" {{I}} (#This is the marked mention) may strike through the Sonora Desert . I may head for Pinacate or north for the Colorado Basin . You are an old man . ""
+- Is the sentence a dialogue or part of dialogue: True"
+1260_jane_eyre_an_autobiography_brat_0,281,True,"- Mention: I
+- Sentence: ""You have no business to take our books; you are a dependent, mama says; you have no money; your father left you none; you ought to beg, and not to live here with gentlemen's children like us, and eat the same meals we do, and wear clothes at our mama's expense. Now, I 'll teach you to rummage my bookshelves: for they are mine; all the house belongs to me, or will do in a few years.""
+- Is the sentence a dialogue or part of dialogue: True"
+209_the_turn_of_the_screw_brat_0,36,True,"- Mention: I
+- Sentence: ""Oh , thank God , no ! ""
+- Is the sentence a dialogue or part of dialogue: True"
+110_tess_of_the_durbervilles_a_pure_woman_brat_0,250,True,"- Mention: me
+- Sentence: ""That is if knights were baronets -- which they be. 'T is recorded in history all about {{me}} (#This is the marked mention). Dost know of such a place, lad, as Kingsbere-sub-Greenhill?""
+- Is the sentence a dialogue or part of dialogue: True"
+1400_great_expectations_brat_0,149,False,"- Mention: he
+- Sentence: I earnestly expressed my hope that he would n't , and held tighter to the tombstone on which he had put me ; partly , to keep myself upon it ; partly , to keep myself from crying .
+- Is the sentence a dialogue or part of dialogue: False"
+2005_piccadilly_jim_brat_0,231,True,"- Mention: you
+- Sentence: ""What do you mean ?""
+- Is the sentence a dialogue or part of dialogue: True"
+209_the_turn_of_the_screw_brat_0,205,True,"- Mention: I
+- Sentence: ""More 's the pity, then. That 's the only way I ever understand.""
+- Is the sentence a dialogue or part of dialogue: True"
+18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat_0,350,True,"- Mention: me
+- Sentence: ""There is no doubt about it. He has spoken to {{me}} more than once on the subject.""
+- Is the sentence a dialogue or part of dialogue: True"
+1342_pride_and_prejudice_brat_0,108,True,"- Mention: you
+- Sentence: "" It is more than I engage for , I assure you . ""
+- Is the sentence a dialogue or part of dialogue: True"
+209_the_turn_of_the_screw_brat_0,81,True,"- Mention: I
+- Sentence: ""I can't begin. I shall have to send to town.""
+- Is the sentence a dialogue or part of dialogue: True"
+345_dracula_brat_0,324,True,"- Mention: your
+- Sentence: She saw, I suppose, the doubt in my face, for she put the rosary round my neck, and said, ""For your mother’s sake,"" and went out of the room.
+- Is the sentence a dialogue or part of dialogue: True"
+155_the_moonstone_brat_0,265,True,"- Mention: your
+- Sentence: ""Tell me first, "" I said, ""how the Indian in the armoury met his death, and what those last words meant, when he pointed to the dagger in {{your}} hand.""
+- Is the sentence a dialogue or part of dialogue: True"
+1400_great_expectations_brat_0,207,False,"- Mention: {{me}}
+- Sentence: ""After each question he tilted {{me}} over a little more, so as to give me a greater sense of helplessness and danger.""
+- Is the sentence a dialogue or part of dialogue: False"
+78_tarzan_of_the_apes_brat_0,218,False,"- Mention: he
+- Sentence: The big fellow, who was known among his mates as Black Michael, tried his leg gingerly, and, finding that it bore his weight, turned to Clayton with a word of gruff thanks.
+- Is the sentence a dialogue or part of dialogue: False"
+11231_bartleby_the_scrivener_a_story_of_wallstreet_brat_0,197,True,"- Mention: I
+- Sentence: ""True, -- but, with submission, sir, behold these hairs! I am getting old. Surely, sir, a blot or two of a warm afternoon is not to be severely urged against gray hairs. Old age -- even if it blot the page -- is honorable. With submission, sir, we both are getting old.""
+- Is the sentence a dialogue or part of dialogue: True"
+5230_the_invisible_man_a_grotesque_romance_brat_0,57,True,"- Mention: I
+- Sentence: ""Can {{I}} (#This is the marked mention) take your hat and coat, sir?"" she said, ""and give them a good dry in the kitchen?""
+- Is the sentence a dialogue or part of dialogue: True"
+27_far_from_the_madding_crowd_brat_0,210,False,"- Mention: him
+- Sentence: The redjacketed and dark-haired maiden seemed to think so too, for she carelessly glanced over him, and told her man to drive on.
+- Is the sentence a dialogue or part of dialogue: False"
+514_little_women_brat_0,149,True,"- Mention: I
+- Sentence: ""I hate affected, niminy-piminy chits!""
+- Is the sentence a dialogue or part of dialogue: True"
+18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat_0,43,True,"- Mention: you
+- Sentence: ""If he had died, I might, as you say, have become reconciled; but he was abducted at the age of four by a revengeful servant whom I had discharged from my employment.""
+- Is the sentence a dialogue or part of dialogue: True"
+12677_personality_plus_some_experiences_of_emma_mcchesney_and_her_son_jock_brat_0,228,True,"- Mention: I
+- Sentence: ""You 're a jealous blonde , "" he laughed . "" Because I 'm going to be a captain of finance -- an advertising wizard ; you 're afraid {{I}} (#This is the marked mention) 'll grab the glory all away from you . ""
+- Is the sentence a dialogue or part of dialogue: True"
+1400_great_expectations_brat_0,238,False,"- Mention: {{me}}
+- Sentence: ""He gave me a most tremendous dip and roll, so that the church jumped over its own weathercock.""
+- Is the sentence a dialogue or part of dialogue: False"
+174_the_picture_of_dorian_gray_brat_0,47,True,"- Mention: I
+- Sentence: "" No , I wo n't send it anywhere . ""
+- Is the sentence a dialogue or part of dialogue: True"
+18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat_0,226,True,"- Mention: me
+- Sentence: "" My uncle needs no assurance from {{me}} (#This is the marked mention) . He is always kind , and I am always grateful . ""
+- Is the sentence a dialogue or part of dialogue: True"
+217_sons_and_lovers_brat_0,151,True,"- Mention: my
+- Sentence: ""Can I have {{my}} (#This is the marked mention) dinner, mother?"" he cried, rushing in with his cap on.
+- Is the sentence a dialogue or part of dialogue: True"
+1342_pride_and_prejudice_brat_0,166,True,"- Mention: I
+- Sentence: ""You mistake me, my dear. I have a high respect for your nerves. They are my old friends. I have heard you mention them with consideration these last twenty years at least.""
+- Is the sentence a dialogue or part of dialogue: True"
+345_dracula_brat_0,284,True,"- Mention: I
+- Sentence: ""Oh , yes ! I know that ! I know that , but do you know what day it is ?""
+- Is the sentence a dialogue or part of dialogue: True"
+18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat_0,247,True,"- Mention: your
+- Sentence: ""Have you so specified in {{your}} will ? "" asked Curtis.
+- Is the sentence a dialogue or part of dialogue: True"
+4276_north_and_south_brat_0,317,True,"- Mention: I
+- Sentence: ' Ah Newton ! ' said she , ' {{I}} (#This is the marked mention) think we shall all be sorry to leave this dear old room . '
+- Is the sentence a dialogue or part of dialogue: True"
+171_charlotte_temple_brat_0,209,True,"- Mention: You
+- Sentence: "" {{You}} (#This is the marked mention) can not oblige me more , "" said Temple , "" than to point out any way by which I can be serviceable to my fellow creatures . ""
+- Is the sentence a dialogue or part of dialogue: True"
+1260_jane_eyre_an_autobiography_brat_0,140,True,"- Mention: she
+- Sentence: ""Where the dickens is she ! "" he continued.
+- Is the sentence a dialogue or part of dialogue: True"
+1342_pride_and_prejudice_brat_0,318,True,"- Mention: Mr. Bingley
+- Sentence: ""I am sick of Mr. Bingley,"" cried his wife.
+- Is the sentence a dialogue or part of dialogue: True"
+2005_piccadilly_jim_brat_0,196,True,"- Mention: you
+- Sentence: ""You dropped it there when you heard me come in.""
+- Is the sentence a dialogue or part of dialogue: True"
+174_the_picture_of_dorian_gray_brat_0,258,True,"- Mention: Dorian Gray
+- Sentence: ""I want you to explain to me why you wo n't exhibit Dorian Gray 's picture.""
+- Is the sentence a dialogue or part of dialogue: True"
+84_frankenstein_or_the_modern_prometheus_brat_0,337,False,"- Mention: he
+- Sentence: He saw his mistress once before the destined ceremony; but she was bathed in tears, and throwing herself at his feet, entreated him to spare her, confessing at the same time that she loved another, but that he was poor, and that her father would never consent to the union.
+- Is the sentence a dialogue or part of dialogue: False"
+543_main_street_brat_0,267,True,"- Mention: YOU
+- Sentence: ""You'd be good for a fellow that was too serious. Make him more -- more -- {{YOU}} know -- sympathetic!""
+- Is the sentence a dialogue or part of dialogue: True"
+174_the_picture_of_dorian_gray_brat_0,252,True,"- Mention: you
+- Sentence: "" I will tell {{you}} (#This is the marked mention) what it is . I want you to explain to me why you wo n't exhibit Dorian Gray 's picture . I want the real reason . ""
+- Is the sentence a dialogue or part of dialogue: True"
+73_the_red_badge_of_courage_an_episode_of_the_american_civil_war_brat_0,60,False,"- Mention: He
+- Sentence: The tall soldier felt called upon to defend the truth of a rumor he himself had introduced. He and the loud one came near to fighting over it.
+- Is the sentence a dialogue or part of dialogue: False"
+805_this_side_of_paradise_brat_0,220,True,"- Mention: {{me}}
+- Sentence: ""They try to impress _ {{me}} _ , my dear -- ""
+- Is the sentence a dialogue or part of dialogue: True"
+805_this_side_of_paradise_brat_0,112,True,"- Mention: I
+- Sentence: ""I am feeling very old to-day, Amory,"" she would sigh, her face a rare cameo of pathos, her voice exquisitely modulated, her hands as facile as Bernhardt's.
+- Is the sentence a dialogue or part of dialogue: True"
+18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat_0,32,True,"- Mention: I
+- Sentence: "" It is long since I have heard you refer to my cousin 's loss. I thought you had become reconciled -- no, I do not mean that, -- I thought your regret might be less poignant.""
+- Is the sentence a dialogue or part of dialogue: True"
+209_the_turn_of_the_screw_brat_0,179,True,"- Mention: I
+- Sentence: ""I see. She was in love.""
+- Is the sentence a dialogue or part of dialogue: True"
+1342_pride_and_prejudice_brat_0,122,True,"- Mention: I
+- Sentence: "" You are over-scrupulous , surely . I dare say Mr. Bingley will be very glad to see you ; and I will send a few lines by you to assure him of my hearty consent to his marrying whichever he chooses of the girls ; though I must throw in a good word for my little Lizzy . ""
+- Is the sentence a dialogue or part of dialogue: True"
+2852_the_hound_of_the_baskervilles_brat_0,249,True,"- Mention: I
+- Sentence: ""Do n't move, I beg you, Watson.""
+- Is the sentence a dialogue or part of dialogue: True"
+5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat_0,203,True,"- Mention: I
+- Sentence: ""All right, sir ; I 'll bring it .""
+- Is the sentence a dialogue or part of dialogue: True"
+155_the_moonstone_brat_0,257,False,"- Mention: him
+- Sentence: I waited before I gave him my hand in return.
+- Is the sentence a dialogue or part of dialogue: False"
+18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat_0,25,True,"- Mention: my
+- Sentence: "" First , the death of my dearly beloved wife , and next , the loss of my boy , Harvey . ""
+- Is the sentence a dialogue or part of dialogue: True"
+1400_great_expectations_brat_0,212,False,"- Mention: me
+- Sentence: ""He tilted {{me}} (#This is the marked mention) again.""
+- Is the sentence a dialogue or part of dialogue: False"
+110_tess_of_the_durbervilles_a_pure_woman_brat_0,84,False,"- Mention: your
+- Sentence: ""In the reign of King John one of them was rich enough to give a manor to the Knights Hospitallers; and in Edward the Second's time your forefather Brian was summoned to Westminster to attend the great Council there.""
+- Is the sentence a dialogue or part of dialogue: False"
+1400_great_expectations_brat_0,258,True,"- Mention: I
+- Sentence: ""Now , I ai n't alone , as you may think I am . There 's a young man hid with me , in comparison with which young man I am a Angel .""
+- Is the sentence a dialogue or part of dialogue: True"
+209_the_turn_of_the_screw_brat_0,105,True,"- Mention: {{You}}
+- Sentence: ""And is the record yours ? {{You}} (#This is the marked mention) took the thing down ? ""
+- Is the sentence a dialogue or part of dialogue: True"
+4217_a_portrait_of_the_artist_as_a_young_man_brat_0,154,False,"- Mention: him
+- Sentence: And his father had told him if he wanted anything to write home to him and, whatever he did, never to peach on a fellow.
+- Is the sentence a dialogue or part of dialogue: False"
+2005_piccadilly_jim_brat_0,218,True,"- Mention: I
+- Sentence: ""All right. Let 's go for a walk. I will if you will.""
+- Is the sentence a dialogue or part of dialogue: True"
+1400_great_expectations_brat_0,222,True,"- Mention: your
+- Sentence: ""Or I 'll have your heart and liver out.""
+- Is the sentence a dialogue or part of dialogue: True"
+18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat_0,23,True,"- Mention: my
+- Sentence: "" First , the death of my dearly beloved wife , and next , the loss of my boy , Harvey . ""
+- Is the sentence a dialogue or part of dialogue: True"
+215_the_call_of_the_wild_brat_0,243,True,"- Mention: {{me}}
+- Sentence: ""A hundred , "" was the reply . "" Would n't take a sou less , so help {{me}} . ""
+- Is the sentence a dialogue or part of dialogue: True"
+2641_a_room_with_a_view_brat_0,211,True,"- Mention: you
+- Sentence: ""I AM so glad to see {{you}} (#This is the marked mention) , "" said the girl, who was in a state of spiritual starvation, and would have been glad to see the waiter if her cousin had permitted it.
+- Is the sentence a dialogue or part of dialogue: True"
+1206_the_flying_u_ranch_brat_0,150,True,"- Mention: Miguel
+- Sentence: ""What 's the joke ? "" he inquired languidly , his chin thrust out and his eyes upon the match blazing at the end of his cigarette.
+- Is the sentence a dialogue or part of dialogue: True"
+217_sons_and_lovers_brat_0,235,True,"- Mention: I
+- Sentence: ""Shall you carry 'em, 'cause I 'm frightened o ' breakin ' 'em?""
+- Is the sentence a dialogue or part of dialogue: True"
+1342_pride_and_prejudice_brat_0,161,True,"- Mention: my
+- Sentence: "" Mr. Bennet , how _ can _ you abuse your own children in such a way ? You take delight in vexing me . You have no compassion for {{my}} (#This is the marked mention) poor nerves . ""
+- Is the sentence a dialogue or part of dialogue: True"
+1260_jane_eyre_an_autobiography_brat_0,161,True,"- Mention: She
+- Sentence: ""Eliza just put her head in at the door, and said at once -- ""She is in the window-seat, to be sure, Jack.""
+- Is the sentence a dialogue or part of dialogue: True"
+171_charlotte_temple_brat_0,206,True,"- Mention: I
+- Sentence: "" You are a benevolent fellow , "" said a young officer to him one day ; "" and {{I}} (#This is the marked mention) have a great mind to give you a fine subject to exercise the goodness of your heart upon . ""
+- Is the sentence a dialogue or part of dialogue: True"
+76_adventures_of_huckleberry_finn_brat_0,108,True,"- Mention: She
+- Sentence: Miss Watson would say, ""Do n't put your feet up there, Huckleberry ;"" and ""Do n't scrunch up like that, Huckleberry -- set up straight ;"" and pretty soon she would say, ""Do n't gap and stretch like that, Huckleberry -- why do n't you try to behave ?""
+- Is the sentence a dialogue or part of dialogue: True"
+1400_great_expectations_brat_0,167,True,"- Mention: your
+- Sentence: ""Oh ! "" said he , coming back . "" And is that your father alonger your mother ? ""
+- Is the sentence a dialogue or part of dialogue: True"
+217_sons_and_lovers_brat_0,234,True,"- Mention: you
+- Sentence: ""Shall you carry 'em, 'cause I'm frightened o' breakin 'em?""
+- Is the sentence a dialogue or part of dialogue: True"
+5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat_0,166,True,"- Mention: me
+- Sentence: ""No , they was a gift from Lewis Napoleon . Lewis had outgrown 'em and sent 'em to {{me}} , -- he 's bigger than me , and that 's why they do n't fit .""
+- Is the sentence a dialogue or part of dialogue: True"
+5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat_0,186,True,"- Mention: I
+- Sentence: ""Shall {{I}} (#This is the marked mention) get the money changed, sir?""
+- Is the sentence a dialogue or part of dialogue: True"
+1342_pride_and_prejudice_brat_0,171,True,"- Mention: you
+- Sentence: ""Ah, you do not know what I suffer.""
+- Is the sentence a dialogue or part of dialogue: True"
+766_david_copperfield_brat_0,279,False,"- Mention: her
+- Sentence: My mother was too much afraid of her to refuse compliance with this odd request, if she had any disposition to do so.
+- Is the sentence a dialogue or part of dialogue: False"
+18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat_0,206,True,"- Mention: my
+- Sentence: "" Yes , Curtis ; you and Florence are equally dear to me , and it is {{my}} (#This is the marked mention) hope that you may be united . In that case , there will be no division of my fortune .""
+- Is the sentence a dialogue or part of dialogue: True"
+1342_pride_and_prejudice_brat_0,135,True,"- Mention: I
+- Sentence: ""I desire you will do no such thing. Lizzy is not a bit better than the others; and I am sure she is not half so handsome as Jane, nor half so good-humoured as Lydia. But you are always giving her the preference.""
+- Is the sentence a dialogue or part of dialogue: True"
+432_the_ambassadors_brat_0,143,True,"- Mention: her
+- Sentence: ""I 've met him at Milrose -- where I used sometimes, a good while ago, to stay; I had friends there who were friends of his, and I 've been at his house.""
+- Is the sentence a dialogue or part of dialogue: True"
+217_sons_and_lovers_brat_0,185,True,"- Mention: your
+- Sentence: ""Take your pudding in your hand -- and it 's only five past one , so you were wrong -- you have n't got your twopence , "" cried the mother in a breath.
+- Is the sentence a dialogue or part of dialogue: True"
+1342_pride_and_prejudice_brat_0,172,True,"- Mention: I
+- Sentence: ""Ah, you do not know what I suffer.""
+- Is the sentence a dialogue or part of dialogue: True"
+1400_great_expectations_brat_0,216,False,"- Mention: me
+- Sentence: ""He tilted me again.""
+- Is the sentence a dialogue or part of dialogue: False"
+345_dracula_brat_0,287,True,"- Mention: my
+- Sentence: ""Do you know what day it is ?""
+- Is the sentence a dialogue or part of dialogue: True"
+5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat_0,100,True,"- Mention: his
+- Sentence: ""How much? "" asked a gentleman on his way to his office.
+- Is the sentence a dialogue or part of dialogue: True"
+543_main_street_brat_0,242,True,"- Mention: I
+- Sentence: ""I know. You _ get _ people. Most of these darn co-eds ---- Say, Carol, you could do a lot for people.""
+- Is the sentence a dialogue or part of dialogue: True"
+233_sister_carrie_a_novel_brat_0,221,True,"- Mention: she
+- Sentence: ""I am going to visit my sister,"" she explained.
+- Is the sentence a dialogue or part of dialogue: True"
+502_desert_gold_brat_0,144,True,"- Mention: You
+- Sentence: ""I may strike through the Sonora Desert. I may head for Pinacate or north for the Colorado Basin. {{You}} are an old man.""
+- Is the sentence a dialogue or part of dialogue: True"
+18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat_0,231,True,"- Mention: your
+- Sentence: "" I do not doubt {{your}} (#This is the marked mention) affection , "" he said ; "" and I have shown it by making you my joint heirs in the event of your marriage ; but it is only fair to say that my property goes to my boy , if he still lives . ""
+- Is the sentence a dialogue or part of dialogue: True"
+432_the_ambassadors_brat_0,137,True,"- Mention: you
+- Sentence: ""Do you know him ? "" Strether wound up .
+- Is the sentence a dialogue or part of dialogue: True"
+1342_pride_and_prejudice_brat_0,294,True,"- Mention: he
+- Sentence: ""What can be the meaning of that emphatic exclamation? "" cried he.
+- Is the sentence a dialogue or part of dialogue: True"
+209_the_turn_of_the_screw_brat_0,55,True,"- Mention: me
+- Sentence: ""Nobody but {{me}} (#This is the marked mention) , till now , has ever heard . It 's quite too horrible .""
+- Is the sentence a dialogue or part of dialogue: True"
+5230_the_invisible_man_a_grotesque_romance_brat_0,175,True,"- Mention: I
+- Sentence: ""I prefer to keep them on,"" he said with emphasis, and she noticed that he wore big blue spectacles with sidelights, and had a bush side-whisker over his coat-collar that completely hid his cheeks and face.
+- Is the sentence a dialogue or part of dialogue: True"
+95_the_prisoner_of_zenda_brat_0,245,True,"- Mention: you
+- Sentence: ""The difference between you and Robert, "" said my sister-in-law, who often (bless her!) speaks on a platform, and oftener still as if she were on one, ""is that he recognizes the duties of his position, and you see the opportunities of yours.""
+- Is the sentence a dialogue or part of dialogue: True"
+24_o_pioneers_brat_0,251,True,"- Mention: I
+- Sentence: ""Catch me if I fall, Emil,"" he called back as he began his ascent.
+- Is the sentence a dialogue or part of dialogue: True"
+2852_the_hound_of_the_baskervilles_brat_0,285,True,"- Mention: I
+- Sentence: ""I am so very glad, "" said he. ""I was not sure whether I had left it here or in the Shipping Office. I would not lose that stick for the world.""
+- Is the sentence a dialogue or part of dialogue: True"
+1400_great_expectations_brat_0,290,True,"- Mention: I
+- Sentence: {{I}} said that I would get him the file, and I would get him what broken bits of food I could, and I would come to him at the Battery, early in the morning.
+- Is the sentence a dialogue or part of dialogue: True"
+217_sons_and_lovers_brat_0,268,True,"- Mention: You
+- Sentence: ""You need n't come if you do n't want,"" she said.
+- Is the sentence a dialogue or part of dialogue: True"
+24_o_pioneers_brat_0,249,True,"- Mention: I
+- Sentence: ""I left it in the drug store. I could n't climb in it, anyhow. Catch me if I fall, Emil,"" he called back as he began his ascent.
+- Is the sentence a dialogue or part of dialogue: True"
+2641_a_room_with_a_view_brat_0,238,True,"- Mention: I
+- Sentence: ""I AM so glad to see you,"" said the girl, who was in a state of spiritual starvation, and would have been glad to see the waiter if her cousin had permitted it.
+- Is the sentence a dialogue or part of dialogue: True"
+174_the_picture_of_dorian_gray_brat_0,214,True,"- Mention: I
+- Sentence: ""I hate the way you talk about your married life, Harry,"" said Basil Hallward, strolling towards the door that led into the garden.
+- Is the sentence a dialogue or part of dialogue: True"
+41286_miss_marjoribanks_brat_0,152,True,"- Mention: I
+- Sentence: ""And to think I was not there to soothe her last moments!"" Lucilla said to herself, with a sob, and with feelings sufficiently real in their way.
+- Is the sentence a dialogue or part of dialogue: True"
+12677_personality_plus_some_experiences_of_emma_mcchesney_and_her_son_jock_brat_0,136,True,"- Mention: {{I}}
+- Sentence: ""Well, you asked my advice, interrupted his mother 's voice with that muffled effect which is caused by a skirt being slipped over the head, and I gave it.""
+- Is the sentence a dialogue or part of dialogue: True"
+3457_the_man_of_the_forest_brat_0,242,True,"- Mention: I
+- Sentence: ""A-huh ! ejaculated Anson , dubiously . Then he turned abruptly . Moze , you an ' Shady an ' Burt go wait outside . Reckon this ai n't the deal I expected ... . An ' you can saddle the hosses .""
+- Is the sentence a dialogue or part of dialogue: True"
+18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat_0,280,True,"- Mention: you
+- Sentence: ""If I were thoroughly convinced of it, I would destroy the later will, and leave my property absolutely to you and Florence.""
+- Is the sentence a dialogue or part of dialogue: True"
+1342_pride_and_prejudice_brat_0,33,True,"- Mention: my
+- Sentence: ""Why, my dear, you must know, Mrs. Long says that Netherfield is taken by a young man of large fortune from the north of England; that he came down on Monday in a chaise and four to see the place, and was so much delighted with it, that he agreed with Mr. Morris immediately; that he is to take possession before Michaelmas, and some of his servants are to be in the house by the end of next week.""
+- Is the sentence a dialogue or part of dialogue: True"
+1342_pride_and_prejudice_brat_0,120,True,"- Mention: you
+- Sentence: ""Indeed you must go, for it will be impossible for _ us _ to visit him if you do not.""
+- Is the sentence a dialogue or part of dialogue: True"
+1400_great_expectations_brat_0,300,True,"- Mention: {{you}}
+- Sentence: ""Say Lord strike {{you}} dead if you do n't ! "" said the man.
+- Is the sentence a dialogue or part of dialogue: True"
+174_the_picture_of_dorian_gray_brat_0,260,True,"- Mention: you
+- Sentence: ""I told you the real reason.""
+- Is the sentence a dialogue or part of dialogue: True"
+74_the_adventures_of_tom_sawyer_brat_0,285,True,"- Mention: I
+- Sentence: ""I can lick you ! "" "" {{I}} (#This is the marked mention) 'd like to see you try it . ""
+- Is the sentence a dialogue or part of dialogue: True"
+18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat_0,197,True,"- Mention: your
+- Sentence: "" You know that the dearest wish of my heart is to find favor in {{your}} (#This is the marked mention) eyes. Uncle, you know my wish, and approve of it, do you not? ""
+- Is the sentence a dialogue or part of dialogue: True"
+2852_the_hound_of_the_baskervilles_brat_0,24,True,"- Mention: your
+- Sentence: "" How did you know what I was doing ? I believe you have eyes in the back of {{your}} (#This is the marked mention) head . ""
+- Is the sentence a dialogue or part of dialogue: True"
+2852_the_hound_of_the_baskervilles_brat_0,284,True,"- Mention: I
+- Sentence: ""I am so very glad,"" said he. ""I was not sure whether I had left it here or in the Shipping Office. I would not lose that stick for the world.""
+- Is the sentence a dialogue or part of dialogue: True"
+209_the_turn_of_the_screw_brat_0,177,True,"- Mention: I
+- Sentence: ""I see. She was in love.""
+- Is the sentence a dialogue or part of dialogue: True"
+2891_howards_end_brat_0,245,True,"- Mention: her
+- Sentence: ""I'll go for her other letters,"" said Margaret.
+- Is the sentence a dialogue or part of dialogue: True"
+5230_the_invisible_man_a_grotesque_romance_brat_0,171,True,"- Mention: Thank {{you}} (#This is the marked mention)
+- Sentence: ""Thank {{you}} (#This is the marked mention), "" he said drily, glancing from her to the door and then at her again.
+- Is the sentence a dialogue or part of dialogue: True"
+113_the_secret_garden_brat_0,75,True,"- Mention: my
+- Sentence: "" I will not let you stay . Send {{my}} (#This is the marked mention) Ayah to me . ""
+- Is the sentence a dialogue or part of dialogue: True"
+233_sister_carrie_a_novel_brat_0,218,True,"- Mention: {{I}}
+- Sentence: ""I am going to visit my sister,"" she explained.
+- Is the sentence a dialogue or part of dialogue: True"
+502_desert_gold_brat_0,190,False,"- Mention: he
+- Sentence: ""But the more he studied this latest comrade the more he began to suspect that he might have missed something in the others.""
+- Is the sentence a dialogue or part of dialogue: False"
+5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat_0,20,True,"- Mention: You
+- Sentence: "" {{You}} (#This is the marked mention) went to the Old Bowery ? Where 'd you get your money ? "" asked the man , who was a porter in the employ of a firm doing business on Spruce Street .
+- Is the sentence a dialogue or part of dialogue: True"
+233_sister_carrie_a_novel_brat_0,194,True,"- Mention: your
+- Sentence: ""Let 's see , "" he went on , "" I know quite a number of people in {{your}} (#This is the marked mention) town . Morgenroth the clothier and Gibson the dry goods man . ""
+- Is the sentence a dialogue or part of dialogue: True"
+543_main_street_brat_0,227,True,"- Mention: You
+- Sentence: ""I just love common workmen , "" glowed Carol . "" Only you do n't want to forget that common workmen do n't think they 're common ! "" "" {{You}} (#This is the marked mention) 're right ! I apologize ! "" Carol 's brows lifted in the astonishment of emotion , in a glory of abasement .
+- Is the sentence a dialogue or part of dialogue: True"
+113_the_secret_garden_brat_0,84,False,"- Mention: she
+- Sentence: The woman looked frightened, but she only stammered that the Ayah could not come and when Mary threw herself into a passion and beat and kicked her, she looked only more frightened and repeated that it was not possible for the Ayah to come to Missie Sahib.
+- Is the sentence a dialogue or part of dialogue: False"
+24_o_pioneers_brat_0,247,True,"- Mention: I
+- Sentence: ""I left it in the drug store. I could n't climb in it, anyhow. Catch me if I fall, Emil,"" he called back as he began his ascent.
+- Is the sentence a dialogue or part of dialogue: True"
+2852_the_hound_of_the_baskervilles_brat_0,27,True,"- Mention: he
+- Sentence: ""I have, at least, a well-polished, silver-plated coffee-pot in front of me,"" said he.
+- Is the sentence a dialogue or part of dialogue: True"
+2852_the_hound_of_the_baskervilles_brat_0,237,False,"- Mention: He
+- Sentence: He had risen and paced the room as he spoke.
+- Is the sentence a dialogue or part of dialogue: False"
+24_o_pioneers_brat_0,269,True,"- Mention: I
+- Sentence: ""Wait a minute, Alexandra. Why can't I drive for you as far as our place? It's getting colder every minute. Have you seen the doctor?""
+- Is the sentence a dialogue or part of dialogue: True"
+209_the_turn_of_the_screw_brat_0,109,True,"- Mention: I
+- Sentence: ""I took that HERE "" -- he tapped his heart. ""I've never lost it.""
+- Is the sentence a dialogue or part of dialogue: True"
+5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat_0,158,True,"- Mention: you
+- Sentence: ""But if you 'd like it , sir , to remember General Washington by , I 'll let you have it reasonable .""
+- Is the sentence a dialogue or part of dialogue: True"
+95_the_prisoner_of_zenda_brat_0,20,True,"- Mention: you
+- Sentence: (no one 's income is ever quite sufficient, {{you}} (#This is the marked mention) know)
+- Is the sentence a dialogue or part of dialogue: True"
+969_the_tenant_of_wildfell_hall_brat_0,197,True,"- Mention: I
+- Sentence: 'Well , ' resumed Rose ; ' I was going to tell you an important piece of news I heard there — I have been bursting with it ever since . You know it was reported a month ago , that somebody was going to take Wildfell Hall — and — what do you think ? It has actually been inhabited above a week ! — and we never knew ! '
+- Is the sentence a dialogue or part of dialogue: True"
+120_treasure_island_brat_0,62,True,"- Mention: he
+- Sentence: ""Here you, matey,"" he cried to the man who trundled the barrow; ""bring up alongside and help up my chest.""
+- Is the sentence a dialogue or part of dialogue: True"
+2852_the_hound_of_the_baskervilles_brat_0,23,True,"- Mention: you
+- Sentence: "" How did you know what I was doing ? I believe you have eyes in the back of your head . ""
+- Is the sentence a dialogue or part of dialogue: True"
+233_sister_carrie_a_novel_brat_0,112,True,"- Mention: I
+- Sentence: "" {{I}} (#This is the marked mention) did n't say that , "" she said .
+- Is the sentence a dialogue or part of dialogue: True"
+12677_personality_plus_some_experiences_of_emma_mcchesney_and_her_son_jock_brat_0,240,True,"- Mention: You
+- Sentence: ""I 'm not afraid , "" she drawled , a wicked little glint in her blue eyes . "" You see , they 'll only regard your feats and say , ' H 'm , no wonder . He ought to be able to sell ice to an Eskimo . His mother was Emma McChesney . ' ""
+- Is the sentence a dialogue or part of dialogue: True"
+217_sons_and_lovers_brat_0,180,True,"- Mention: I
+- Sentence: ""I told you ! "" he said , running to the dresser for his cap .
+- Is the sentence a dialogue or part of dialogue: True"
+969_the_tenant_of_wildfell_hall_brat_0,185,True,"- Mention: my
+- Sentence: 'Hush, hush, my dear! your brother has no such idea!' whispered my mother earnestly, holding up her finger.
+- Is the sentence a dialogue or part of dialogue: True"
+95_the_prisoner_of_zenda_brat_0,266,True,"- Mention: {{me}}
+- Sentence: ""Do take it, Rudolf -- to please {{me}}.""
+- Is the sentence a dialogue or part of dialogue: True"
+174_the_picture_of_dorian_gray_brat_0,113,True,"- Mention: He
+- Sentence: ""Your mysterious young friend, whose name you have never told me, but whose picture really fascinates me, never thinks. I feel quite sure of that. He is some brainless beautiful creature who should be always here in winter when we have no flowers to look at, and always here in summer when we want something to chill our intelligence.""
+- Is the sentence a dialogue or part of dialogue: True"
+24_o_pioneers_brat_0,128,True,"- Mention: Emil
+- Sentence: ""Why, Emil ! I told you to stay in the store and not to come out . What is the matter with you ?""
+- Is the sentence a dialogue or part of dialogue: True"
+120_treasure_island_brat_0,78,True,"- Mention: he
+- Sentence: ""Oh, I see what you 're at -- there ""; and he threw down three or four gold pieces on the threshold.
+- Is the sentence a dialogue or part of dialogue: True"
+5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat_0,22,True,"- Mention: you
+- Sentence: "" You went to the Old Bowery ? Where 'd you get your money ? "" asked the man , who was a porter in the employ of a firm doing business on Spruce Street .
+- Is the sentence a dialogue or part of dialogue: True"
+5230_the_invisible_man_a_grotesque_romance_brat_0,109,True,"- Mention: I
+- Sentence: "" There ! {{I}} (#This is the marked mention) clean forgot it . It 's her being so long ! ""
+- Is the sentence a dialogue or part of dialogue: True"
+113_the_secret_garden_brat_0,168,True,"- Mention: your
+- Sentence: ""You did not say it had broken out among your servants.""
+- Is the sentence a dialogue or part of dialogue: True"
+24_o_pioneers_brat_0,250,True,"- Mention: {{me}}
+- Sentence: ""Catch {{me}} (#This is the marked mention) if I fall, Emil,"" he called back as he began his ascent.
+- Is the sentence a dialogue or part of dialogue: True"
+1400_great_expectations_brat_0,305,True,"- Mention: me
+- Sentence: ""Now , "" he pursued , "" you remember what you 've undertook , and you remember that young man , and you get home ! ""
+- Is the sentence a dialogue or part of dialogue: True"
+1342_pride_and_prejudice_brat_0,273,True,"- Mention: I
+- Sentence: ""Impossible, Mr. Bennet, impossible, when I am not acquainted with him myself; how can you be so teasing?""
+- Is the sentence a dialogue or part of dialogue: True"
+1400_great_expectations_brat_0,285,False,"- Mention: {{you}}
+- Sentence: ""I am a keeping that young man from harming of {{you}} at the present moment, with great difficulty.""
+- Is the sentence a dialogue or part of dialogue: False"
+110_tess_of_the_durbervilles_a_pure_woman_brat_0,223,True,"- Mention: You
+- Sentence: ""Who be you, then, John Durbeyfield, to order me about and call me 'boy'? You know my name as well as I know yours!""
+- Is the sentence a dialogue or part of dialogue: True"
+110_tess_of_the_durbervilles_a_pure_woman_brat_0,216,True,"- Mention: me
+- Sentence: ""Boy, take up that basket! I want 'ee to go on an errand for {{me}}.""
+- Is the sentence a dialogue or part of dialogue: True"
+5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat_0,45,True,"- Mention: I
+- Sentence: ""Well , I 'm glad to hear you say that. I believe there 's some good in you , Dick , after all.""
+- Is the sentence a dialogue or part of dialogue: True"
+969_the_tenant_of_wildfell_hall_brat_0,282,True,"- Mention: you
+- Sentence: 'And pray, be quick about it; and mind you bring me word how much sugar she puts in her tea, and what sort of caps and aprons she wears, and all about it; for I do n't know how I can live till I know,' said Fergus, very gravely.
+- Is the sentence a dialogue or part of dialogue: True"
+1342_pride_and_prejudice_brat_0,86,True,"- Mention: you
+- Sentence: "" You want to tell me, and I have no objection to hearing it.""
+- Is the sentence a dialogue or part of dialogue: True"
+217_sons_and_lovers_brat_0,231,False,"- Mention: he
+- Sentence: She knew he wanted them for her.
+- Is the sentence a dialogue or part of dialogue: False"
+18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat_0,297,True,"- Mention: me
+- Sentence: ""Let {{me}} (#This is the marked mention) help you, Uncle John,"" said Florence, eagerly.
+- Is the sentence a dialogue or part of dialogue: True"
+1342_pride_and_prejudice_brat_0,209,True,"- Mention: I
+- Sentence: ""I hope Mr. Bingley will like it, Lizzy.""
+- Is the sentence a dialogue or part of dialogue: True"
+969_the_tenant_of_wildfell_hall_brat_0,234,True,"- Mention: she
+- Sentence: ""But Eliza Millward says her father intends to call upon her soon, to offer some pastoral advice, which he fears she needs, as, though she is known to have entered the neighbourhood early last week, she did not make her appearance at church on Sunday; and she — Eliza, that is — will beg to accompany him, and is sure she can succeed in wheedling something out of her — you know, Gilbert, she can do anything.""
+- Is the sentence a dialogue or part of dialogue: True"
+95_the_prisoner_of_zenda_brat_0,54,True,"- Mention: I
+- Sentence: "" I 'm so glad Robert 's is black ! "" she cried.
+- Is the sentence a dialogue or part of dialogue: True"
+2852_the_hound_of_the_baskervilles_brat_0,183,True,"- Mention: my
+- Sentence: ""So your grave, middle-aged family practitioner vanishes into thin air, my dear Watson, and there emerges a young fellow under thirty, amiable, unambitious, absent-minded, and the possessor of a favourite dog, which I should describe roughly as being larger than a terrier and smaller than a mastiff.""
+- Is the sentence a dialogue or part of dialogue: True"
+1342_pride_and_prejudice_brat_0,24,True,"- Mention: me
+- Sentence: "" But it is , "" returned she ; "" for Mrs. Long has just been here , and she told me all about it . ""
+- Is the sentence a dialogue or part of dialogue: True"
+110_tess_of_the_durbervilles_a_pure_woman_brat_0,128,True,"- Mention: he
+- Sentence: ""At first I resolved not to disturb you with such a useless piece of information,"" said he.
+- Is the sentence a dialogue or part of dialogue: True"
+110_tess_of_the_durbervilles_a_pure_woman_brat_0,224,True,"- Mention: my
+- Sentence: "" Who be you , then , John Durbeyfield , to order me about and call me ' boy ' ? You know {{my}} (#This is the marked mention) name as well as I know yours ! ""
+- Is the sentence a dialogue or part of dialogue: True"
+24_o_pioneers_brat_0,182,True,"- Mention: My
+- Sentence: ""My God, girl, what a head of hair!"" he exclaimed, quite innocently and foolishly.
+- Is the sentence a dialogue or part of dialogue: True"
+5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat_0,43,True,"- Mention: I
+- Sentence: ""Well, I 'm glad to hear you say that. I believe there 's some good in you, Dick, after all.""
+- Is the sentence a dialogue or part of dialogue: True"
+5230_the_invisible_man_a_grotesque_romance_brat_0,99,True,"- Mention: Thank you
+- Sentence: ""Thank you,"" he said at the same time, and did not stir until she was closing the door.
+- Is the sentence a dialogue or part of dialogue: True"
+2005_piccadilly_jim_brat_0,168,True,"- Mention: you
+- Sentence: ""I wish you would not eat candy all day.""
+- Is the sentence a dialogue or part of dialogue: True"
+113_the_secret_garden_brat_0,300,False,"- Mention: he
+- Sentence: The first man who came in was a large officer she had once seen talking to her father. He looked tired and troubled, but when he saw her he was so startled that he almost jumped back.
+- Is the sentence a dialogue or part of dialogue: False"
+2852_the_hound_of_the_baskervilles_brat_0,85,True,"- Mention: I
+- Sentence: ""I confess, my dear fellow, that I am very much in your debt.""
+- Is the sentence a dialogue or part of dialogue: True"
+2005_piccadilly_jim_brat_0,112,False,"- Mention: him
+- Sentence: ""It was an additional annoyance that he was fully aware of the impossibility of ever catching him at it.""
+- Is the sentence a dialogue or part of dialogue: False"
+541_the_age_of_innocence_brat_0,118,False,"- Mention: her
+- Sentence: She dropped her eyes to the immense bouquet of lilies-of-the-valley on her knee, and Newland Archer saw her white-gloved finger-tips touch the flowers softly.
+- Is the sentence a dialogue or part of dialogue: False"
+805_this_side_of_paradise_brat_0,251,True,"- Mention: my
+- Sentence: ""Ah, Bishop Wiston, "" she would declare, ""I do not want to talk of myself. I can imagine the stream of hysterical women fluttering at your doors, beseeching you to be simpatico "" -- then after an interlude filled by the clergyman -- ""but my mood -- is -- oddly dissimilar.""
+- Is the sentence a dialogue or part of dialogue: True"
+113_the_secret_garden_brat_0,24,True,"- Mention: ""Why did you come?""
+- Sentence: ""Why did you come ? "" she said to the strange woman.
+- Is the sentence a dialogue or part of dialogue: True"
+233_sister_carrie_a_novel_brat_0,212,True,"- Mention: you
+- Sentence: ""If you are going there, you will enjoy it immensely. Have you relatives?""
+- Is the sentence a dialogue or part of dialogue: True"
+472_the_house_behind_the_cedars_brat_0,144,True,"- Mention: you
+- Sentence: ""Can you tell me anything about Judge Straight 's office hours ?""
+- Is the sentence a dialogue or part of dialogue: True"
+113_the_secret_garden_brat_0,29,True,"- Mention: {she}
+- Sentence: ""I will not let you stay. Send my Ayah to me.""
+- Is the sentence a dialogue or part of dialogue: True"
+1260_jane_eyre_an_autobiography_brat_0,252,True,"- Mention: your
+- Sentence: ""That is for your impudence in answering mama awhile since, and for your sneaking way of getting behind curtains, and for the look you had in your eyes two minutes since, you rat!""
+- Is the sentence a dialogue or part of dialogue: True"
+2852_the_hound_of_the_baskervilles_brat_0,26,True,"- Mention: me
+- Sentence: ""I have, at least, a well-polished, silver-plated coffee-pot in front of me,"" said he.
+- Is the sentence a dialogue or part of dialogue: True"
+95_the_prisoner_of_zenda_brat_0,88,True,"- Mention: My
+- Sentence: ""I wish you 'd take that picture away , Robert , "" said she . "" {{My}} (#This is the marked mention) dear ! "" he cried .
+- Is the sentence a dialogue or part of dialogue: True"
+1342_pride_and_prejudice_brat_0,107,True,"- Mention: I
+- Sentence: "" It is more than I engage for , {{I}} assure you . ""
+- Is the sentence a dialogue or part of dialogue: True"
+18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat_0,269,True,"- Mention: I
+- Sentence: ""Believe me, sir,"" said Curtis, with faltering voice, feigning an emotion which he did not feel, ""believe me, that I fully appreciate your goodness. I am sure Florence joins with me ----""
+- Is the sentence a dialogue or part of dialogue: True"
+5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat_0,37,True,"- Mention: you
+- Sentence: ""You do n't catch me stealin ' , if that 's what you mean , "" said Dick.
+- Is the sentence a dialogue or part of dialogue: True"
+345_dracula_brat_0,294,True,"- Mention: you
+- Sentence: ""Do you know where you are going, and what you are going to?""
+- Is the sentence a dialogue or part of dialogue: True"
+2852_the_hound_of_the_baskervilles_brat_0,25,True,"- Mention: I
+- Sentence: ""I have , at least , a well-polished , silver-plated coffee-pot in front of me , "" said he .
+- Is the sentence a dialogue or part of dialogue: True"
+1342_pride_and_prejudice_brat_0,306,True,"- Mention: he
+- Sentence: ""While Mary is adjusting her ideas, he continued, 'let us return to Mr. Bingley.'""
+- Is the sentence a dialogue or part of dialogue: True"
+18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat_0,19,True,"- Mention: You
+- Sentence: "" You are not an old man . {{You}} (#This is the marked mention) are but fifty-four . ""
+- Is the sentence a dialogue or part of dialogue: True"
+367_country_of_the_pointed_firs_brat_0,173,True,"- Mention: me
+- Sentence: ""No, dear, him I speak of could never think of me,"" she said.
+- Is the sentence a dialogue or part of dialogue: True"
+95_the_prisoner_of_zenda_brat_0,29,True,"- Mention: You
+- Sentence: "" {{You}} (#This is the marked mention) are nine-and-twenty , "" she observed , "" and you 've done nothing but -- ""
+- Is the sentence a dialogue or part of dialogue: True"
+1342_pride_and_prejudice_brat_0,245,True,"- Mention: my
+- Sentence: ""Do n't keep coughing so , Kitty , for Heaven 's sake ! Have a little compassion on {{my}} (#This is the marked mention) nerves . You tear them to pieces .""
+- Is the sentence a dialogue or part of dialogue: True"
+120_treasure_island_brat_0,59,True,"- Mention: {{me}}
+- Sentence: ""Well , then , "" said he , "" this is the berth for {{me}} . Here you , matey , "" he cried to the man who trundled the barrow ; "" bring up alongside and help up my chest . I 'll stay here a bit , "" he continued .
+- Is the sentence a dialogue or part of dialogue: True"
+434_the_circular_staircase_brat_0,297,True,"- Mention: I
+- Sentence: "" ai n't sayin ' nothin ' , Mis ' Innes , "" he said , with his hand on the door-knob , "" but there 's been goin 's - on here this las ' few months as ai n't natchal . ' Tai n't one thing an ' ' tai n't another -- it 's jest a door squealin ' here , an ' a winder closin ' there , but when doors an ' winders gets to cuttin ' up capers and there 's nobody nigh 'em , it 's time Thomas Johnson sleeps somewhar 's else . ""
+- Is the sentence a dialogue or part of dialogue: True"
+110_tess_of_the_durbervilles_a_pure_woman_brat_0,131,True,"- Mention: I
+- Sentence: ""However, our impulses are too strong for our judgement sometimes. I thought you might perhaps know something of it all the while.""
+- Is the sentence a dialogue or part of dialogue: True"
+5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat_0,168,True,"- Mention: me
+- Sentence: ""No , they was a gift from Lewis Napoleon . Lewis had outgrown 'em and sent 'em to me , -- he 's bigger than {{me}} (#This is the marked mention) , and that 's why they do n't fit .""
+- Is the sentence a dialogue or part of dialogue: True"
+1260_jane_eyre_an_autobiography_brat_0,283,True,"- Mention: {{my}}
+- Sentence: ""You have no business to take our books; you are a dependent, mama says; you have no money; your father left you none; you ought to beg, and not to live here with gentlemen's children like us, and eat the same meals we do, and wear clothes at our mama's expense. Now, I'll teach you to rummage bookshelves: for they _are_ mine; all the house belongs to me, or will do in a few years.""
+- Is the sentence a dialogue or part of dialogue: True"
+1400_great_expectations_brat_0,293,True,"- Mention: I
+- Sentence: I said that I would get him the file, and I would get him what broken bits of food I could, and I would come to him at the Battery, early in the morning.
+- Is the sentence a dialogue or part of dialogue: True"
+110_tess_of_the_durbervilles_a_pure_woman_brat_0,209,False,"- Mention: him
+- Sentence: ""In a few minutes a youth appeared in the distance, walking in the same direction as that which had been pursued by Durbeyfield.""
+- Is the sentence a dialogue or part of dialogue: False"
+12677_personality_plus_some_experiences_of_emma_mcchesney_and_her_son_jock_brat_0,231,True,"- Mention: he
+- Sentence: ""You 're a jealous blonde,"" he laughed.
+- Is the sentence a dialogue or part of dialogue: True"
+209_the_turn_of_the_screw_brat_0,110,True,"- Mention: your
+- Sentence: ""Then {{your}} (#This is the marked mention) manuscript -- ?""
+- Is the sentence a dialogue or part of dialogue: True"
+12677_personality_plus_some_experiences_of_emma_mcchesney_and_her_son_jock_brat_0,182,True,"- Mention: I
+- Sentence: ""I want to write the kind of ad, "" Jock was saying excitedly, ""that you see 'em staring at in the subways, and street cars and L-trains.""
+- Is the sentence a dialogue or part of dialogue: True"
+502_desert_gold_brat_0,32,True,"- Mention: {him}
+- Sentence: "" Hello there , "" the man called , as he came to a halt and gazed about {him} .
+- Is the sentence a dialogue or part of dialogue: True"
+805_this_side_of_paradise_brat_0,246,True,"- Mention: I
+- Sentence: ""Ah, Bishop Wiston, "" she would declare, "" I do not want to talk of myself. {{I}} can imagine the stream of hysterical women fluttering at your doors, beseeching you to be simpatico "" -- then after an interlude filled by the clergyman -- "" but my mood -- is -- oddly dissimilar.""
+- Is the sentence a dialogue or part of dialogue: True"
+5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat_0,137,True,"- Mention: you
+- Sentence: ""Would you like to go to the same one ? "" asked Dick, shrewdly.
+- Is the sentence a dialogue or part of dialogue: True"
+1260_jane_eyre_an_autobiography_brat_0,282,True,"- Mention: you
+- Sentence: ""Now, I 'll teach you to rummage my bookshelves : for they _ are _ mine ; all the house belongs to me , or will do in a few years .""
+- Is the sentence a dialogue or part of dialogue: True"
+233_sister_carrie_a_novel_brat_0,200,True,"- Mention: you
+- Sentence: ""Oh, do you ? "" she interrupted , aroused by memories of longings their show windows had cost her.
+- Is the sentence a dialogue or part of dialogue: True"
+2005_piccadilly_jim_brat_0,216,True,"- Mention: You
+- Sentence: ""You ought to be out in the open air this lovely morning,"" he said feebly.
+- Is the sentence a dialogue or part of dialogue: True"
+1206_the_flying_u_ranch_brat_0,183,True,"- Mention: he
+- Sentence: ""I can tell yuh the kinda cow-puncher he is ; I 've saw 'em workin ' at it.""
+- Is the sentence a dialogue or part of dialogue: True"
+113_the_secret_garden_brat_0,73,True,"- Mention: I
+- Sentence: "" Why did you come ? "" she said to the strange woman . "" I will not let you stay . Send my Ayah to me . ""
+- Is the sentence a dialogue or part of dialogue: True"
+171_charlotte_temple_brat_0,142,True,"- Mention: I
+- Sentence: ""' Tis a romantic attempt , "" said he ; "" and should I even succeed in seeing and conversing with her , it can be productive of no good : I must of necessity leave England in a few days , and probably may never return ; why then should I endeavour to engage the affections of this lovely girl , only to leave her a prey to a thousand inquietudes , of which at present she has no idea ? I will return to Portsmouth and think no more about her . ""
+- Is the sentence a dialogue or part of dialogue: True"
+78_tarzan_of_the_apes_brat_0,220,False,"- Mention: {{him}}
+- Sentence: ""But just that instant the officer turned to leave Lord and Lady Greystoke, and, as he did so, tripped against the sailor and sprawled headlong upon the deck, overturning the water-pail so that he was drenched in its dirty contents.""
+- Is the sentence a dialogue or part of dialogue: False"
+171_charlotte_temple_brat_0,202,True,"- Mention: {{You}}
+- Sentence: "" {{You}} are a benevolent fellow , "" said a young officer to him one day ; "" and I have a great mind to give you a fine subject to exercise the goodness of your heart upon . ""
+- Is the sentence a dialogue or part of dialogue: True"
+1400_great_expectations_brat_0,202,True,"- Mention: You
+- Sentence: ""Now, what do you say ? ""
+- Is the sentence a dialogue or part of dialogue: True"
+1260_jane_eyre_an_autobiography_brat_0,258,False,"- Mention: my
+- Sentence: ""Accustomed to John Reed's abuse, I never had an idea of replying to it; my care was how to endure the blow which would certainly follow the insult.""
+- Is the sentence a dialogue or part of dialogue: False"
+18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat_0,347,True,"- Mention: he
+- Sentence: ""You profess to love Uncle John, and yet you would disappoint his cherished hope ! {{he}} (#This is the marked mention) returned.""
+- Is the sentence a dialogue or part of dialogue: True"
+18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat_0,255,True,"- Mention: you
+- Sentence: "" I have made two wills. Both are in yonder secretary. By the first the property is bequeathed to you and Florence.""
+- Is the sentence a dialogue or part of dialogue: True"
+41286_miss_marjoribanks_brat_0,327,False,"- Mention: her
+- Sentence: His wife had gone out of the world without leaving the least mark of her existence, except in that large girl, whose spirits and forces were unbounded, but whose discretion at the present moment did not seem much greater than her mother 's.
+- Is the sentence a dialogue or part of dialogue: False"
+217_sons_and_lovers_brat_0,184,True,"- Mention: your
+- Sentence: ""Take your pudding in your hand -- and it 's only five past one , so you were wrong -- you have n't got your twopence , "" cried the mother in a breath.
+- Is the sentence a dialogue or part of dialogue: True"
+1400_great_expectations_brat_0,138,True,"- Mention: you
+- Sentence: ""You young dog,"" said the man, licking his lips, ""what fat cheeks you ha' got.""
+- Is the sentence a dialogue or part of dialogue: True"
+233_sister_carrie_a_novel_brat_0,104,True,"- Mention: your
+- Sentence: "" And so this is {{your}} (#This is the marked mention) first visit to Chicago , "" he observed.
+- Is the sentence a dialogue or part of dialogue: True"
+2852_the_hound_of_the_baskervilles_brat_0,115,True,"- Mention: my
+- Sentence: ""I am afraid, my dear Watson, that most of your conclusions were erroneous.""
+- Is the sentence a dialogue or part of dialogue: True"
+217_sons_and_lovers_brat_0,294,True,"- Mention: my
+- Sentence: ""Has {{my}} (#This is the marked mention) dad been ? "" he asked.
+- Is the sentence a dialogue or part of dialogue: True"
+367_country_of_the_pointed_firs_brat_0,172,True,"- Mention: him
+- Sentence: ""No, dear, him speak of could never think of me,"" she said.
+- Is the sentence a dialogue or part of dialogue: True"
+110_tess_of_the_durbervilles_a_pure_woman_brat_0,214,True,"- Mention: I
+- Sentence: ""Boy, take up that basket ! I want ' ee to go on an errand for me.""
+- Is the sentence a dialogue or part of dialogue: True"
+18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat_0,208,True,"- Mention: my
+- Sentence: "" Yes , Curtis ; you and Florence are equally dear to me , and it is my hope that you may be united . In that case , there will be no division of my fortune .""
+- Is the sentence a dialogue or part of dialogue: True"
+174_the_picture_of_dorian_gray_brat_0,50,False,"- Mention: him
+- Sentence: Lord Henry elevated his eyebrows and looked at him in amazement through the thin blue wreaths of smoke that curled up in such fanciful whorls from his heavy, opium-tainted cigarette.
+- Is the sentence a dialogue or part of dialogue: False"
+1260_jane_eyre_an_autobiography_brat_0,289,False,"- Mention: him
+- Sentence: I did so, not at first aware what was his intention; but when I saw him lift and poise the book and stand in act to hurl it, I instinctively started aside with a cry of alarm: not soon enough, however; the volume was flung, it hit me, and I fell, striking my head against the door and cutting it.
+- Is the sentence a dialogue or part of dialogue: False"
+1342_pride_and_prejudice_brat_0,322,False,"- Mention: he
+- Sentence: The astonishment of the ladies was just what he wished; that of Mrs. Bennet perhaps surpassing the rest; though, when the first tumult of joy was over, she began to declare that it was what she had expected all the while.
+- Is the sentence a dialogue or part of dialogue: False"
+18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat_0,176,True,"- Mention: his
+- Sentence: ""That 's the sorrowful part of it,"" said his uncle, in a voice of anguish.
+- Is the sentence a dialogue or part of dialogue: True"
+1342_pride_and_prejudice_brat_0,128,True,"- Mention: my
+- Sentence: ""I will send a few lines by you to assure him of my hearty consent to his marrying whichever he chooses of the girls; though I must throw in a good word for my little Lizzy.""
+- Is the sentence a dialogue or part of dialogue: True"
+1342_pride_and_prejudice_brat_0,114,True,"- Mention: you
+- Sentence: "" But consider your daughters . Only think what an establishment it would be for one of them . Sir William and Lady Lucas are determined to go , merely on that account , for in general , you know , they visit no newcomers . Indeed you must go , for it will be impossible for us to visit him if you do not . ""
+- Is the sentence a dialogue or part of dialogue: True"
+5230_the_invisible_man_a_grotesque_romance_brat_0,71,True,"- Mention: I
+- Sentence: ""I prefer to keep them on,"" he said with emphasis, and she noticed that he wore big blue spectacles with sidelights, and had a bush side-whisker over his coat-collar that completely hid his cheeks and face.
+- Is the sentence a dialogue or part of dialogue: True"
+18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat_0,327,True,"- Mention: you
+- Sentence: ""As {{you}} (#This is the marked mention) please , "" she answered , coldly .
+- Is the sentence a dialogue or part of dialogue: True"
+113_the_secret_garden_brat_0,266,True,"- Mention: me
+- Sentence: ""How queer and quiet it is , "" she said . "" It sounds as if there were no one in the bungalow but me and the snake . ""
+- Is the sentence a dialogue or part of dialogue: True"
+74_the_adventures_of_tom_sawyer_brat_0,229,False,"- Mention: He
+- Sentence: He was not the Model Boy of the village.
+- Is the sentence a dialogue or part of dialogue: False"
+1342_pride_and_prejudice_brat_0,311,True,"- Mention: his
+- Sentence: ""I am sick of Mr. Bingley,"" cried his wife.
+- Is the sentence a dialogue or part of dialogue: True"
+18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat_0,30,True,"- Mention: my
+- Sentence: "" It is long since I have heard you refer to my cousin 's loss . I thought you had become reconciled -- no , I do not mean that , -- I thought your regret might be less poignant . ""
+- Is the sentence a dialogue or part of dialogue: True"
+5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat_0,160,True,"- Mention: I
+- Sentence: ""Thank you, but I wouldn't want to deprive you of it. And did your pants come from General Washington too?""
+- Is the sentence a dialogue or part of dialogue: True"
+969_the_tenant_of_wildfell_hall_brat_0,114,True,"- Mention: my
+- Sentence: 'Well ! here they both are , ' cried my mother , looking round upon us without retarding the motion of her nimble fingers and glittering needles .
+- Is the sentence a dialogue or part of dialogue: True"
+367_country_of_the_pointed_firs_brat_0,140,False,"- Mention: her
+- Sentence: I felt that I was cruel to a whole neighborhood in curtailing her liberty in this most important season for harvesting the different wild herbs that were so much counted upon to ease their winter ails.
+- Is the sentence a dialogue or part of dialogue: False"
+95_the_prisoner_of_zenda_brat_0,287,True,"- Mention: I
+- Sentence: ""Oh, Rudolf, how good of you! I am glad!""
+- Is the sentence a dialogue or part of dialogue: True"
+502_desert_gold_brat_0,148,True,"- Mention: me
+- Sentence: ""I do n't know the country , but to me one place is the same as another , "" replied his companion.
+- Is the sentence a dialogue or part of dialogue: True"
+217_sons_and_lovers_brat_0,225,True,"- Mention: He
+- Sentence: ""I got these from that stall where y' ave ter get them marbles in them holes.""
+- Is the sentence a dialogue or part of dialogue: True"
+969_the_tenant_of_wildfell_hall_brat_0,275,True,"- Mention: she
+- Sentence: Eliza Millward says her father intends to call upon her soon, to offer some pastoral advice, which he fears she needs, as, though she is known to have entered the neighbourhood early last week, she did not make her appearance at church on Sunday; and she — Eliza, that is — will beg to accompany him, and is sure she can succeed in wheedling something out of her — you know, Gilbert, she can do anything.
+- Is the sentence a dialogue or part of dialogue: True"
+1695_the_man_who_was_thursday_a_nightmare_brat_0,30,False,"- Mention: he
+- Sentence: That young man with the long, auburn hair and the impudent face -- that young man was not really a poet; but surely he was a poem.
+- Is the sentence a dialogue or part of dialogue: False"
+233_sister_carrie_a_novel_brat_0,115,True,"- Mention: I
+- Sentence: ""Oh, "" he answered, in a very pleasing way and with an assumed air of mistake, ""I thought you did.""
+- Is the sentence a dialogue or part of dialogue: True"
+174_the_picture_of_dorian_gray_brat_0,70,True,"- Mention: me
+- Sentence: ""I know you will laugh at {{me}} (#This is the marked mention) , "" he replied , "" but I really ca n't exhibit it . I have put too much of myself into it . ""
+- Is the sentence a dialogue or part of dialogue: True"
+215_the_call_of_the_wild_brat_0,225,True,"- Mention: ""I""
+- Sentence: ""Yep, has fits,"" the man said, hiding his mangled hand from the baggageman, who had been attracted by the sounds of struggle. ""I'm takin' 'm up for the boss to 'Frisco. A crack dog-doctor there thinks that he can cure 'm.""
+- Is the sentence a dialogue or part of dialogue: True"
+209_the_turn_of_the_screw_brat_0,190,True,"- Mention: me
+- Sentence: ""You 'll all meet {{me}} (#This is the marked mention) here ?""
+- Is the sentence a dialogue or part of dialogue: True"
+215_the_call_of_the_wild_brat_0,256,True,"- Mention: he
+- Sentence: ""Here, lend me a hand before you pull your freight,"" he added.
+- Is the sentence a dialogue or part of dialogue: True"
+1342_pride_and_prejudice_brat_0,138,True,"- Mention: I
+- Sentence: "" Lizzy is not a bit better than the others ; and I am sure she is not half so handsome as Jane , nor half so good-humoured as Lydia . But you are always giving _ her _ the preference . ""
+- Is the sentence a dialogue or part of dialogue: True"
+1260_jane_eyre_an_autobiography_brat_0,285,True,"- Mention: me
+- Sentence: ""You have no business to take our books; you are a dependent, mama says; you have no money; your father left you none; you ought to beg, and not to live here with gentlemen's children like us, and eat the same meals we do, and wear clothes at our mama's expense. Now, I'll teach you to rummage my bookshelves: for they are mine; all the house belongs to me, or will do in a few years.""
+- Is the sentence a dialogue or part of dialogue: True"
+5348_ragged_dick_or_street_life_in_new_york_with_the_bootblacks_brat_0,23,True,"- Mention: your
+- Sentence: "" You went to the Old Bowery ? Where 'd you get {{your}} (#This is the marked mention) money ? "" asked the man , who was a porter in the employ of a firm doing business on Spruce Street .
+- Is the sentence a dialogue or part of dialogue: True"
+1342_pride_and_prejudice_brat_0,117,True,"- Mention: you
+- Sentence: "" Indeed you must go , for it will be impossible for _ us _ to visit him if you do not . ""
+- Is the sentence a dialogue or part of dialogue: True"
+2852_the_hound_of_the_baskervilles_brat_0,28,True,"- Mention: me
+- Sentence: ""But, tell me, Watson, what do you make of our visitor's stick?""
+- Is the sentence a dialogue or part of dialogue: True"
+1342_pride_and_prejudice_brat_0,178,True,"- Mention: you
+- Sentence: ""It will be no use to us, if twenty such should come, since you will not visit them.""
+- Is the sentence a dialogue or part of dialogue: True"
+171_charlotte_temple_brat_0,243,False,"- Mention: {{him}}
+- Sentence: ""The officer, whose name was Blakeney, tapped at the door, and was bid to enter by a voice melodiously soft.""
+- Is the sentence a dialogue or part of dialogue: False"
+18581_adrift_in_new_york_tom_and_florence_braving_the_world_brat_0,228,True,"- Mention: I
+- Sentence: "" My uncle needs no assurance from me. He is always kind, and I am always grateful.""
+- Is the sentence a dialogue or part of dialogue: True"
+472_the_house_behind_the_cedars_brat_0,156,True,"- Mention: he
+- Sentence: ""I reckon {{he}} (#This is the marked mention) 'll soon be goin ' de way er all de earth.""
+- Is the sentence a dialogue or part of dialogue: True"
+1695_the_man_who_was_thursday_a_nightmare_brat_0,92,False,"- Mention: his
+- Sentence: There are others who may remember it because it marked the first appearance in the place of the second poet of Saffron Park. For a long time the red-haired revolutionary had reigned without a rival; it was upon the night of the sunset that his solitude suddenly ended.
+- Is the sentence a dialogue or part of dialogue: False"
+4276_north_and_south_brat_0,191,True,"- Mention: She
+- Sentence: ' She is a lucky girl , ' replied another voice, which Margaret knew to be that of Mrs. Gibson, a lady who was taking a double interest in the conversation, from the fact of one of her daughters having been married within the last few weeks.
+- Is the sentence a dialogue or part of dialogue: True"
+78_tarzan_of_the_apes_brat_0,221,False,"- Mention: {{his}}
+- Sentence: ""But just that instant the officer turned to leave Lord and Lady Greystoke, and, as he did so, tripped against the sailor and sprawled headlong upon the deck, overturning the water-pail so that he was drenched in its dirty contents.""
+- Is the sentence a dialogue or part of dialogue: False"
+514_little_women_brat_0,104,True,"- Mention: you
+- Sentence: ""If {{you}} (#This is the marked mention) mean libel, I 'd say so, and not talk about labels, as if Papa was a pickle bottle,"" advised Jo, laughing.
+- Is the sentence a dialogue or part of dialogue: True"
+174_the_picture_of_dorian_gray_brat_0,68,True,"- Mention: I
+- Sentence: "" I know you will laugh at me , "" he replied , "" but I really ca n't exhibit it . I have put too much of myself into it . ""
+- Is the sentence a dialogue or part of dialogue: True"
+4217_a_portrait_of_the_artist_as_a_young_man_brat_0,138,False,"- Mention: him
+- Sentence: But she had pretended not to see that she was going to cry.
+- Is the sentence a dialogue or part of dialogue: False"
+345_dracula_brat_0,295,True,"- Mention: you
+- Sentence: ""Do you know where you are going, and what you are going to?""
+- Is the sentence a dialogue or part of dialogue: True"
+1260_jane_eyre_an_autobiography_brat_0,39,True,"- Mention: Jane
+- Sentence: ""Jane, do n't like cavillers or questioners; besides, there is something truly forbidding in a child taking up her elders in that manner.""
+- Is the sentence a dialogue or part of dialogue: True"
+122_Donkey_Cabbages_0,332,True,"- Mention: me
+- Sentence: ""Dear countryman, let me just taste this wonderful salad.""
+- Is the sentence a dialogue or part of dialogue: True"
+094_The_Peasant’s_Wise_Daughter_0,120,True,"- Mention: thou
+- Sentence: Then said the King , "" Come to me not clothed , not naked , not riding , not walking , not in the road , and not out of the road , and if thou canst do that I will marry thee . ""
+- Is the sentence a dialogue or part of dialogue: True"
+163_The_Glass_Coffin_0,152,True,"- Mention: my
+- Sentence: "" Just Heaven ! "" cried she , "" my deliverance is at hand ! Quick , quick , help me out of {{my}} (#This is the marked mention) prison ; if thou pushest back the bolt of this glass coffin , then I shall be free . ""
+- Is the sentence a dialogue or part of dialogue: True"
+192_The_Master-Thief_0,100,True,"- Mention: that
+- Sentence: ""But, "" he added, "" how canst thou be my son, thou hast become a great lord and livest in wealth and luxury? How hast thou contrived to do that?""
+- Is the sentence a dialogue or part of dialogue: True"
+"036_The_Wishing-Table,_the_Gold-Ass,_and_the_Cudgel_in_the_Sack_0",645,True,"- Mention: {{him}}
+- Sentence: ""If thou dost not give back the table which covers itself, and the gold-ass, the dance shall begin afresh.""
+- Is the sentence a dialogue or part of dialogue: True"
+135_The_White_Bride_and_the_Black_One_0,71,True,"- Mention: thee
+- Sentence: ""But , I pray thee , let no one see the picture .""
+- Is the sentence a dialogue or part of dialogue: True"
+060_The_Two_Brothers_0,1679,True,"- Mention: thy
+- Sentence: He answered, ""They will do thee no harm, old mother, do come down.""
+- Is the sentence a dialogue or part of dialogue: True"
+034_Clever_Elsie_0,69,True,"- Mention: {{her}}
+- Sentence: ""Elsie , why weepest thou ? "" asked the maid.
+- Is the sentence a dialogue or part of dialogue: True"
+029_The_Devil_With_the_Three_Golden_Hairs_0,328,True,"- Mention: I
+- Sentence: ""I should like to have three golden hairs from the devil 's head , "" answered he , "" else I can not keep my wife . ""
+- Is the sentence a dialogue or part of dialogue: True"
+004_The_Story_of_the_Youth_Who_Went_Forth_to_Learn_What_Fear_Was_0,190,True,"- Mention: you
+- Sentence: ""Ah , "" said the father , "" I have nothing but unhappiness with {{you}} (#This is the marked mention) . Go out of my sight . I will see thee no more . ""
+- Is the sentence a dialogue or part of dialogue: True"
+104_Wise_Folks_0,62,True,"- Mention: I
+- Sentence: ""You must give me the two hundred thalers now, or I can not let the cows go.""
+- Is the sentence a dialogue or part of dialogue: True"
+192_The_Master-Thief_0,94,True,"- Mention: my
+- Sentence: ""Alas, {{my}} (#This is the marked mention) son,"" said the father, ""it still does not please me, a thief is still a thief, I tell thee it will end badly.""
+- Is the sentence a dialogue or part of dialogue: True"
+009_The_Twelve_Brothers_0,46,True,"- Mention: thy
+- Sentence: ""Go forth into the forest with thy eleven brothers, and let one sit constantly on the highest tree which can be found, and keep watch, looking towards the tower here in the castle.""
+- Is the sentence a dialogue or part of dialogue: True"
+029_The_Devil_With_the_Three_Golden_Hairs_0,567,True,"- Mention: he
+- Sentence: ""As much as you like,"" answered he.
+- Is the sentence a dialogue or part of dialogue: True"
+092_The_King_of_the_Golden_Mountain_0,510,True,"- Mention: I
+- Sentence: ""False woman, she betrayed and deserted me whilst I was asleep!""
+- Is the sentence a dialogue or part of dialogue: True"
+107_The_Two_Travellers_0,307,True,"- Mention: thou
+- Sentence: ""Run off,"" said the tailor, ""I see thou art still a giddy thing.""
+- Is the sentence a dialogue or part of dialogue: True"
+179_The_Goose-Girl_at_the_Well_0,27,True,"- Mention: I
+- Sentence: "" Ah ! you wonder that {{I}} (#This is the marked mention) should drag grass about , but every one must take his burthen on his back . ""
+- Is the sentence a dialogue or part of dialogue: True"
+193_The_Drummer_0,56,True,"- Mention: {{you}}
+- Sentence: "" When I want to do a thing I always can do it , "" said the drummer ; "" I am sorry for {{you}} , and have no fear of anything . But I do not know the way which leads to the glass-mountain . ""
+- Is the sentence a dialogue or part of dialogue: True"
+193_The_Drummer_0,61,True,"- Mention: I
+- Sentence: ""The road goes through the great forest, in which the man-eaters live,"" she answered, ""and more than that, I dare not tell you.""
+- Is the sentence a dialogue or part of dialogue: True"
+006_Faithful_John_0,461,False,"- Mention: he
+- Sentence: Then the King was rejoiced that she thought as he had thought, and went and opened the cupboard, and brought forth Faithful John and the children, and said, ""God be praised, he is delivered, and we have our little sons again also,"" and told her how everything had occurred.
+- Is the sentence a dialogue or part of dialogue: False"
+"054_The_Knapsack,_the_Hat,_and_the_Horn_0",254,True,"- Mention: me
+- Sentence: ""That suits me very well,"" he answered, took the hat, put it on, and left his table-cloth behind him.
+- Is the sentence a dialogue or part of dialogue: True"
+192_The_Master-Thief_0,43,False,"- Mention: he
+- Sentence: ""The old man took a young tree, put it in a hole, drove in a post beside it, and when he had shovelled in some earth and had trampled it firmly down, he tied the stem of the tree above, below, and in the middle, fast to the post by a rope of straw.""
+- Is the sentence a dialogue or part of dialogue: False"
+029_The_Devil_With_the_Three_Golden_Hairs_0,255,True,"- Mention: I
+- Sentence: ""I will fetch the golden hairs, I am not afraid of the Devil ; "" thereupon he took leave of them and began his journey.
+- Is the sentence a dialogue or part of dialogue: True"
+029_The_Devil_With_the_Three_Golden_Hairs_0,270,True,"- Mention: you
+- Sentence: ""Then you can do us a favour , "" said the watchman , "" if {{you}} (#This is the marked mention) will tell us why our market-fountain , which once flowed with wine has become dry , and no longer gives even water ? ""
+- Is the sentence a dialogue or part of dialogue: True"
+094_The_Peasant’s_Wise_Daughter_0,90,True,"- Mention: his
+- Sentence: ""Ah ! if I had but listened to my daughter ! "" and what it was that his daughter had said.
+- Is the sentence a dialogue or part of dialogue: True"
+004_The_Story_of_the_Youth_Who_Went_Forth_to_Learn_What_Fear_Was_0,27,True,"- Mention: him
+- Sentence: ""Now it came to pass that his father said to him one day 'Hearken to me, thou fellow in the corner there, thou art growing tall and strong, and thou too must learn something by which thou canst earn thy living. Look how thy brother works, but thou dost not even earn thy salt.'""
+- Is the sentence a dialogue or part of dialogue: True"
+186_The_True_Sweethearts_0,199,True,"- Mention: me
+- Sentence: ""Alas ! "" she said to herself , "" if she could but be satisfied at last , and would give up making my life a misery to me . ""
+- Is the sentence a dialogue or part of dialogue: True"
+127_The_Iron_Stove_0,183,True,"- Mention: thou
+- Sentence: They asked, ""Where hast thou come from, and whither art thou going?""
+- Is the sentence a dialogue or part of dialogue: True"
+104_Wise_Folks_0,122,False,"- Mention: her
+- Sentence: The man was enraged and lifted up his stick, and was just going to give her the beating he had promised her.
+- Is the sentence a dialogue or part of dialogue: False"
+006_Faithful_John_0,87,True,"- Mention: thou
+- Sentence: ""I promised thy father before his death that thou shouldst not see that which is in this chamber, it might bring the greatest misfortune on thee and on me.""
+- Is the sentence a dialogue or part of dialogue: True"
+060_The_Two_Brothers_0,1733,True,"- Mention: my
+- Sentence: ""A great misfortune must have befallen my brother, but perhaps I can still save him, for half the knife is still bright.""
+- Is the sentence a dialogue or part of dialogue: True"
+060_The_Two_Brothers_0,1862,True,"- Mention: I
+- Sentence: ""If thou dost not come, {{I}} will shoot thee.""
+- Is the sentence a dialogue or part of dialogue: True"
+003_Our_Lady’s_Child_0,74,True,"- Mention: I
+- Sentence: "" Now I am quite alone , and I could peep in . If I do it , no one will ever know . ""
+- Is the sentence a dialogue or part of dialogue: True"
+089_The_Goose-Girl_0,454,True,"- Mention: thy
+- Sentence: ""If thou wilt not tell me anything, tell thy sorrows to the iron-stove there, "" and he went away.
+- Is the sentence a dialogue or part of dialogue: True"
+126_Ferdinand_the_Faithful_0,202,True,"- Mention: he
+- Sentence: Then again , he said , "" I am to go to this place and to that , and am to bring the bride ; canst thou tell me how I am to set about it ? ""
+- Is the sentence a dialogue or part of dialogue: True"
+012_Rapunzel_0,84,True,"- Mention: her
+- Sentence: Then the enchantress allowed her anger to be softened, and said to him, ""If the case be as thou sayest, I will allow thee to take away with thee as much rampion as thou wilt, only I make one condition, thou must give me the child which thy wife will bring into the world; it shall be well treated, and I will care for it like a mother.""
+- Is the sentence a dialogue or part of dialogue: True"
+107_The_Two_Travellers_0,204,False,"- Mention: his
+- Sentence: ""The shoemaker, however, who had driven God out of his heart, took the knife and put out his left eye.""
+- Is the sentence a dialogue or part of dialogue: False"
+094_The_Peasant’s_Wise_Daughter_0,99,True,"- Mention: you
+- Sentence: ""If you have a daughter who is as wise as that, let her come here.""
+- Is the sentence a dialogue or part of dialogue: True"
+193_The_Drummer_0,419,True,"- Mention: I
+- Sentence: ""How can I forget thee?"" said he, and promised her to come back very soon, and gave his hand upon it.
+- Is the sentence a dialogue or part of dialogue: True"
+060_The_Two_Brothers_0,1810,True,"- Mention: I
+- Sentence: ""Stay here, and wait until I return, I want to chase the lovely wild beast.""
+- Is the sentence a dialogue or part of dialogue: True"
+006_Faithful_John_0,97,True,"- Mention: thou
+- Sentence: ""I shall not leave the place now until thou hast unlocked the door.""
+- Is the sentence a dialogue or part of dialogue: True"
+197_The_Crystal_Ball_0,93,True,"- Mention: thou
+- Sentence: ""Ah, "" she added , "" so many have already gone to meet death for this , and thou art so young ; I grieve that thou shouldst encounter such great danger . ""
+- Is the sentence a dialogue or part of dialogue: True"
+047_The_Juniper-Tree_0,555,True,"- Mention: thou
+- Sentence: ""Yes,"" said the others, ""if he sings again he shall have it.""
+- Is the sentence a dialogue or part of dialogue: True"
+127_The_Iron_Stove_0,376,True,"- Mention: thine
+- Sentence: ""Thou art the true one, thou art mine, and I am thine.""
+- Is the sentence a dialogue or part of dialogue: True"
+047_The_Juniper-Tree_0,698,True,"- Mention: {{I}}
+- Sentence: ""Would that {{I}} were a thousand feet beneath the earth so as not to hear that !""
+- Is the sentence a dialogue or part of dialogue: True"
+122_Donkey_Cabbages_0,408,True,"- Mention: I
+- Sentence: ""Will you take them in, and give them food and stable room, and manage them as I tell you, and then I will pay you what you ask.""
+- Is the sentence a dialogue or part of dialogue: True"
+127_The_Iron_Stove_0,373,True,"- Mention: thou
+- Sentence: ""Thou art the true one, thou art mine, and I am thine.""
+- Is the sentence a dialogue or part of dialogue: True"
+052_King_Thrushbeard_0,199,True,"- Mention: my
+- Sentence: ""Alas , "" thought she , "" if any of the people from my father 's kingdom come to the market and see me sitting there , selling , how they will mock me ? ""
+- Is the sentence a dialogue or part of dialogue: True"
+092_The_King_of_the_Golden_Mountain_0,303,False,"- Mention: he
+- Sentence: When he came to his father, he made himself known to him, but he did not at all believe that the shepherd was his son, and said he certainly had had a son, but that he was dead long ago; however, as he saw he was a poor, needy shepherd, he would give him something to eat.
+- Is the sentence a dialogue or part of dialogue: False"
+178_Master_Pfriem_(Master_Cobbler’s_Awl)_0,52,True,"- Mention: my
+- Sentence: ""Wilt thou burn my house down for me ? That is a fire one could roast an ox by ! Does wood cost nothing ? ""
+- Is the sentence a dialogue or part of dialogue: True"
+187_The_Hare_and_the_Hedgehog_0,57,True,"- Mention: I
+- Sentence: ""You seem to imagine that you can do more with your legs than {{I}} (#This is the marked mention) with mine.""
+- Is the sentence a dialogue or part of dialogue: True"
+089_The_Goose-Girl_0,450,True,"- Mention: her
+- Sentence: ""I may not tell you that, and I dare not lament my sorrows to any human being, for I have sworn not to do so by the heaven which is above me; if I had not done that, I should have lost my life.""
+- Is the sentence a dialogue or part of dialogue: True"
+"036_The_Wishing-Table,_the_Gold-Ass,_and_the_Cudgel_in_the_Sack_0",603,True,"- Mention: {{I}} 
+- Sentence: ""The inn-keeper pricked up his ears , ""What in the world can that be ? "" thought he ; ""the sack must be filled with nothing but jewels ; ought to get them cheap too , for all good things go in threes.""
+- Is the sentence a dialogue or part of dialogue: True"
+193_The_Drummer_0,339,False,"- Mention: {{him}}
+- Sentence: ""The old woman came sneaking up to {{him}}.""
+- Is the sentence a dialogue or part of dialogue: False"
+040_The_Robber_Bridegroom_0,137,True,"- Mention: she
+- Sentence: ""Can you not tell me, "" said the maiden, "" if my betrothed lives here ? ""
+- Is the sentence a dialogue or part of dialogue: True"
+186_The_True_Sweethearts_0,262,True,"- Mention: Keep true to {{me}} 
+- Sentence: The maiden kissed him on his left cheek, and said, ""Keep true to {{me}}, and never let any one else kiss thee on this cheek. I will wait here under the lime-tree until thou returnest.""
+- Is the sentence a dialogue or part of dialogue: True"
+192_The_Master-Thief_0,497,True,"- Mention: my
+- Sentence: ""For once thou escapest with a whole skin, but see that thou leavest my land, for if ever thou settest foot on it again, thou may'st count on thy elevation to the gallows.""
+- Is the sentence a dialogue or part of dialogue: True"
+129_The_Four_Skilful_Brothers_0,224,True,"- Mention: mine
+- Sentence: The thief said, ""What would have been the use of your seeing, if I had not got her away from the dragon? so she is mine.""
+- Is the sentence a dialogue or part of dialogue: True"
+"036_The_Wishing-Table,_the_Gold-Ass,_and_the_Cudgel_in_the_Sack_0",754,True,"- Mention: {{him}}
+- Sentence: ""We will soon drive him out,"" said the bear, and went with {{him}} to the cave and looked in, but when he saw the fiery eyes, fear seized on him likewise; he would have nothing to do with the furious beast, and took to his heels.
+- Is the sentence a dialogue or part of dialogue: True"
+122_Donkey_Cabbages_0,446,True,"- Mention: you
+- Sentence: ""Ah, my beloved, forgive me for the evil I have done you; my mother drove me to it; it was done against my will, for I love you dearly.""
+- Is the sentence a dialogue or part of dialogue: True"
+192_The_Master-Thief_0,163,True,"- Mention: you
+- Sentence: ""Lord count,"" answered the master-thief, ""Think of three things, as difficult as you like, and if I do not perform your tasks, do with me what you will.""
+- Is the sentence a dialogue or part of dialogue: True"
+007_The_Good_Bargain_0,153,True,"- Mention: {{thyself}}
+- Sentence: ""As it is thou, "" said the peasant, "" thou shalt have two hundred ; present {{thyself}} in three days ' time before the King , and let it be paid to thee . ""
+- Is the sentence a dialogue or part of dialogue: True"
+004_The_Story_of_the_Youth_Who_Went_Forth_to_Learn_What_Fear_Was_0,126,False,"- Mention: he
+- Sentence: Thereupon he rang the bell, went home, and without saying a word went to bed, and fell asleep.
+- Is the sentence a dialogue or part of dialogue: False"
+060_The_Two_Brothers_0,1767,True,"- Mention: I
+- Sentence: ""It will be better if I pass myself off for him, and then I can rescue him more easily.""
+- Is the sentence a dialogue or part of dialogue: True"
+121_The_King’s_Son_Who_Feared_Nothing_0,148,False,"- Mention: He
+- Sentence: ""He therefore demanded the ring from him, but the King 's son refused it.""
+- Is the sentence a dialogue or part of dialogue: False"
+179_The_Goose-Girl_at_the_Well_0,270,False,"- Mention: he
+- Sentence: ""When {{he}} (#This is the marked mention) had slept a little while, the old woman came and shook him till he awoke.""
+- Is the sentence a dialogue or part of dialogue: False"
+037_Thumbling_0,321,True,"- Mention: Thou
+- Sentence: ""Thou art mad,"" replied the pastor; but he went himself to the byre to see what was there.
+- Is the sentence a dialogue or part of dialogue: True"
+"088_The_Singing,_Springing_Lark_0",426,True,"- Mention: I
+- Sentence: ""I have followed after thee for seven years. I have been to the sun and the moon, and the four winds, and have enquired for thee, and have helped thee against the dragon; wilt thou, then quite forget me?""
+- Is the sentence a dialogue or part of dialogue: True"
+015_Hansel_and_Grethel_0,390,True,"- Mention: she
+- Sentence: ""Hola, Grethel,"" she cried to the girl, ""be active, and bring some water. Let Hansel be fat or lean, to-morrow I will kill him, and cook him.""
+- Is the sentence a dialogue or part of dialogue: True"
+004_The_Story_of_the_Youth_Who_Went_Forth_to_Learn_What_Fear_Was_0,279,True,"- Mention: I
+- Sentence: ""If you desire nothing more than that, I can easily keep it in mind.""
+- Is the sentence a dialogue or part of dialogue: True"
+195_The_Grave-Mound_0,122,True,"- Mention: you
+- Sentence: "" Are {{you}} (#This is the marked mention) not afraid of the lonely churchyard ? ""
+- Is the sentence a dialogue or part of dialogue: True"
+113_The_Two_Kings’_Children_0,195,True,"- Mention: I
+- Sentence: ""Nay,"" said he, ""I can not do that, I shall still have to die, so I will eat no more.""
+- Is the sentence a dialogue or part of dialogue: True"
+121_The_King’s_Son_Who_Feared_Nothing_0,376,True,"- Mention: thy
+- Sentence: ""Rise,"" said she, ""and swing thy sword three times over the stairs, and then all will be delivered.""
+- Is the sentence a dialogue or part of dialogue: True"
+134_The_Six_Servants_0,99,True,"- Mention: me
+- Sentence: ""If you will give me your beautiful daughter, I will perform any task you set me.""
+- Is the sentence a dialogue or part of dialogue: True"
+033_The_Three_Languages_0,147,True,"- Mention: I
+- Sentence: ""The dogs have revealed to me, in their own language, why they dwell there, and bring evil on the land. They are bewitched, and are obliged to watch over a great treasure which is below in the tower, and they can have no rest until it is taken away, and I have likewise learnt, from their discourse, how that is to be done.""
+- Is the sentence a dialogue or part of dialogue: True"
+126_Ferdinand_the_Faithful_0,366,False,"- Mention: he
+- Sentence: He, however, always rode on his white horse, and once when he was seated on it, it told him that he was to go on to the heath which he knew, and gallop three times round it.
+- Is the sentence a dialogue or part of dialogue: False"
+129_The_Four_Skilful_Brothers_0,231,True,"- Mention: mine
+- Sentence: The huntsman said, ""You and the princess, and all of you, would have been torn to pieces by the dragon if my ball had not hit him, so she is mine.""
+- Is the sentence a dialogue or part of dialogue: True"
+009_The_Twelve_Brothers_0,163,True,"- Mention: {{thyself}}
+- Sentence: ""No , "" answered he , "" thou shalt not die , seat {{thyself}} beneath this tub until our eleven brothers come , and then I will soon come to an agreement with them . ""
+- Is the sentence a dialogue or part of dialogue: True"
+029_The_Devil_With_the_Three_Golden_Hairs_0,342,True,"- Mention: {{him}}
+- Sentence: ""I should like to have three golden hairs from the devil 's head , "" answered he , "" else I can not keep my wife . ""
+- Is the sentence a dialogue or part of dialogue: True"
+187_The_Hare_and_the_Hedgehog_0,59,True,"- Mention: I
+- Sentence: ""That is just what {{I}} (#This is the marked mention) do think , "" said the hare .
+- Is the sentence a dialogue or part of dialogue: True"
+089_The_Goose-Girl_0,225,True,"- Mention: she
+- Sentence: ""I may not tell you that, and I dare not lament my sorrows to any human being, for I have sworn not to do so by the heaven which is above me; if I had not done that, I should have lost my life.""
+- Is the sentence a dialogue or part of dialogue: True"
+126_Ferdinand_the_Faithful_0,88,True,"- Mention: thou
+- Sentence: At first he thought he would pick it up, but then again he thought to himself, ""Thou shouldst leave it lying there; thou wilt easily find a pen where thou art going, if thou hast need of one.""
+- Is the sentence a dialogue or part of dialogue: True"
+092_The_King_of_the_Golden_Mountain_0,545,True,"- Mention: {{me}}
+- Sentence: She said, ""Has the devil power over {{me}} , or did my deliverer never come ? ""
+- Is the sentence a dialogue or part of dialogue: True"
+060_The_Two_Brothers_0,1219,True,"- Mention: {{me}} 
+- Sentence: ""Then the lion called his lion to him and said, ""Dear Lion, thou thyself likest to drink till thou art intoxicated, go and fetch {{me}} some wine, such as is drunk by the King.""
+- Is the sentence a dialogue or part of dialogue: True"
+122_Donkey_Cabbages_0,138,True,"- Mention: it
+- Sentence: ""Now we must have the bird 's heart, he will never miss it.""
+- Is the sentence a dialogue or part of dialogue: True"
+052_King_Thrushbeard_0,322,True,"- Mention: I
+- Sentence: ""Then she wept bitterly and said, ""I have done great wrong, and am not worthy to be your wife."" 
+- Is the sentence a dialogue or part of dialogue: True"
+014_The_Three_Spinners_0,22,True,"- Mention: I
+- Sentence: ""I can not get her to leave off spinning. She insists on spinning for ever and ever, and I am poor, and can not procure the flax.""
+- Is the sentence a dialogue or part of dialogue: True"
+186_The_True_Sweethearts_0,331,True,"- Mention: me
+- Sentence: ""Alas ! "" said she , "" I believed him true to {{me}} (#This is the marked mention) , but he has forgotten me . ""
+- Is the sentence a dialogue or part of dialogue: True"
+006_Faithful_John_0,241,True,"- Mention: him
+- Sentence: ""Ah, "" cried she in her alarm , "" I am betrayed ! I am carried away and have fallen into the power of a merchant — I would die rather ! ""
+- Is the sentence a dialogue or part of dialogue: True"
+134_The_Six_Servants_0,97,True,"- Mention: I
+- Sentence: ""If you will give me your beautiful daughter, I will perform any task you set me.""
+- Is the sentence a dialogue or part of dialogue: True"
+019_The_Fisherman_and_His_Wife_0,589,True,"- Mention: he
+- Sentence: ""Alas,"" said he, ""she wants to be like unto God.""
+- Is the sentence a dialogue or part of dialogue: True"
+134_The_Six_Servants_0,109,True,"- Mention: {{his}}
+- Sentence: ""The first task is not easy. A ring is to be got out of the Red Sea. Come, find some way of doing it.""
+- Is the sentence a dialogue or part of dialogue: True"
+193_The_Drummer_0,47,True,"- Mention: me
+- Sentence: ""You can only help me by ascending the glass-mountain, and freeing me from the power of the witch.""
+- Is the sentence a dialogue or part of dialogue: True"
+201_St._Joseph_in_the_Forest_0,260,True,"- Mention: I
+- Sentence: ""Lost it ! "" cried the mother , "" oh , but we will soon find it again , "" and took her by the hand , and wanted to seek it with her .
+- Is the sentence a dialogue or part of dialogue: True"
+178_Master_Pfriem_(Master_Cobbler’s_Awl)_0,24,True,"- Mention: I
+- Sentence: "" Stupid thing , "" cried he to her , while he was shaking himself , "" couldst thou not see that I was coming behind thee ? ""
+- Is the sentence a dialogue or part of dialogue: True"
+106_The_Poor_Miller’s_Boy_and_the_Cat_0,75,True,"- Mention: this
+- Sentence: "" Well , this is a wonderful cat ! "" thought Hans , "" but I am determined to see if she is telling the truth . ""
+- Is the sentence a dialogue or part of dialogue: True"
+016_The_Three_Snake-Leaves_0,51,True,"- Mention: ""If he loves {{me}} (#This is the marked mention) ""
+- Sentence: ""If he loves {{me}} (#This is the marked mention) with all his heart , "" said she , "" of what use will life be to him afterwards ? ""
+- Is the sentence a dialogue or part of dialogue: True"
+006_Faithful_John_0,6,True,"- Mention: Faithful John
+- Sentence: ""Then answered Faithful John, 'I will not forsake him, and will serve him with fidelity, even if it should cost me my life.'""
+- Is the sentence a dialogue or part of dialogue: True"
+029_The_Devil_With_the_Three_Golden_Hairs_0,480,True,"- Mention: I
+- Sentence: ""Yes,"" answered he, ""I heard, and will take care to remember.""
+- Is the sentence a dialogue or part of dialogue: True"
+178_Master_Pfriem_(Master_Cobbler’s_Awl)_0,54,True,"- Mention: me
+- Sentence: ""Wilt thou burn my house down for me ? That is a fire one could roast an ox by ! Does wood cost nothing ? ""
+- Is the sentence a dialogue or part of dialogue: True"
+"088_The_Singing,_Springing_Lark_0",460,True,"- Mention: me
+- Sentence: ""Not for money or land , but for flesh and blood ; let me sleep another night in the chamber where the bridegroom sleeps . ""
+- Is the sentence a dialogue or part of dialogue: True"
+186_The_True_Sweethearts_0,352,False,"- Mention: my
+- Sentence: ""Now will I try {{my}} (#This is the marked mention) last chance , "" thought the maiden , and when evening came she went to the stone under which she had buried her treasures .
+- Is the sentence a dialogue or part of dialogue: False"
+"088_The_Singing,_Springing_Lark_0",275,True,"- Mention: {{thee}}
+- Sentence: ""No,"" said the moon, ""I have seen no dove, but here I give {{thee}} an egg, break it when thou art in great need.""
+- Is the sentence a dialogue or part of dialogue: True"
+186_The_True_Sweethearts_0,52,True,"- Mention: the girl
+- Sentence: ""Only tell me what is troubling the thee.""
+- Is the sentence a dialogue or part of dialogue: True"
+193_The_Drummer_0,43,True,"- Mention: I
+- Sentence: ""Stop a moment, perhaps I can help you.""
+- Is the sentence a dialogue or part of dialogue: True"
+013_The_Three_Little_Men_in_the_Wood_0,122,True,"- Mention: me
+- Sentence: ""Ah,"" she answered, ""I am to look for a basketful of strawberries, and am not to go home until I can take them with me.""
+- Is the sentence a dialogue or part of dialogue: True"
+123_The_Old_Woman_in_the_Wood_0,67,True,"- Mention: thou
+- Sentence: ""Open that tree there, and thou wilt find clothes.""
+- Is the sentence a dialogue or part of dialogue: True"
+076_The_Pink_0,277,True,"- Mention: Thou
+- Sentence: ""As thou art so clever, thou shalt sit by me.""
+- Is the sentence a dialogue or part of dialogue: True"
+122_Donkey_Cabbages_0,452,True,"- Mention: I
+- Sentence: ""Keep it; it is all the same, for I will take thee for my true wife.""
+- Is the sentence a dialogue or part of dialogue: True"
+007_The_Good_Bargain_0,67,True,"- Mention: him
+- Sentence: As there was no stopping him, the peasant said to him, ""Yes, yes, I know quite well that thou art saying, 'wow, wow, wow,' because thou wantest some of the meat; but I should fare badly if I were to give it to thee.""
+- Is the sentence a dialogue or part of dialogue: True"
+192_The_Master-Thief_0,504,False,"- Mention: his
+- Sentence: The arch-thief took leave of his parents, once more went forth into the wide world, and no one has ever heard of him since.
+- Is the sentence a dialogue or part of dialogue: False"
+178_Master_Pfriem_(Master_Cobbler’s_Awl)_0,37,True,"- Mention: I
+- Sentence: ""Wait,"" said he to his apprentice, ""I will soon show thee how we make skins soft,"" and he brought a strap and gave him a couple of strokes across the back.
+- Is the sentence a dialogue or part of dialogue: True"
+178_Master_Pfriem_(Master_Cobbler’s_Awl)_0,76,True,"- Mention: I
+- Sentence: ""I shall live to see that house tumble down on the people who are in it.""
+- Is the sentence a dialogue or part of dialogue: True"
+116_The_Blue_Light_0,53,True,"- Mention: I
+- Sentence: ""No,"" said he, perceiving her evil intention, ""I will not give thee the light until I am standing with both feet upon the ground.""
+- Is the sentence a dialogue or part of dialogue: True"
+127_The_Iron_Stove_0,219,False,"- Mention: she
+- Sentence: Then {{she}} (#This is the marked mention) gave her three things , which she was to take the greatest care of , namely , three large needles , a plough-wheel , and three nuts .
+- Is the sentence a dialogue or part of dialogue: False"
+092_The_King_of_the_Golden_Mountain_0,453,True,"- Mention: thou
+- Sentence: ""Oh , no , "" said he , "" I will not do that . ""
+- Is the sentence a dialogue or part of dialogue: True"
+"036_The_Wishing-Table,_the_Gold-Ass,_and_the_Cudgel_in_the_Sack_0",658,True,"- Mention: I
+- Sentence: ""Dear father, "" said he, "" I have become a turner .""
+- Is the sentence a dialogue or part of dialogue: True"
+134_The_Six_Servants_0,361,True,"- Mention: you
+- Sentence: ""If it were not for the sake of your husband I should have given you nothing at all !""
+- Is the sentence a dialogue or part of dialogue: True"
+004_The_Story_of_the_Youth_Who_Went_Forth_to_Learn_What_Fear_Was_0,658,False,"- Mention: {{him}}
+- Sentence: ""Then came the six men and carried {{him}} away again.""
+- Is the sentence a dialogue or part of dialogue: False"
+192_The_Master-Thief_0,168,True,"- Mention: thou
+- Sentence: ""Well, then, in the first place, thou shalt steal the horse I keep for my own riding, out of the stable; in the next, thou shalt steal the sheet from beneath the bodies of my wife and myself when we are asleep, without our observing it, and the wedding-ring of my wife as well; thirdly and lastly, thou shalt steal away out of the church, the parson and clerk.""
+- Is the sentence a dialogue or part of dialogue: True"
+100_The_Devil’s_Sooty_Brother_0,107,True,"- Mention: He
+- Sentence: ""Aha , old bird , so I find you here ! you once had me in your power , now I have you .""
+- Is the sentence a dialogue or part of dialogue: True"
+060_The_Two_Brothers_0,1779,True,"- Mention: I
+- Sentence: ""I had lost myself in a forest, and could not find my way out again any sooner.""
+- Is the sentence a dialogue or part of dialogue: True"
+"036_The_Wishing-Table,_the_Gold-Ass,_and_the_Cudgel_in_the_Sack_0",752,True,"- Mention: {{him}}
+- Sentence: ""We will soon drive {{him}} out , "" said the bear , and went with him to the cave and looked in , but when he saw the fiery eyes , fear seized on him likewise ; he would have nothing to do with the furious beast , and took to his heels .
+- Is the sentence a dialogue or part of dialogue: True"
+107_The_Two_Travellers_0,439,True,"- Mention: he
+- Sentence: In the evening when work was over and it had grown dusk, he stole to the King and said, ""Lord King, the tailor is an arrogant fellow and has boasted that he will get the gold crown back again which was lost in ancient times.""
+- Is the sentence a dialogue or part of dialogue: True"
+089_The_Goose-Girl_0,453,True,"- Mention: me
+- Sentence: ""If thou wilt not tell me anything, tell thy sorrows to the iron-stove there, "" and he went away.
+- Is the sentence a dialogue or part of dialogue: True"
+157_The_Sparrow_And_His_Four_Children_0,85,True,"- Mention: thou
+- Sentence: ""In sooth, my dear son, if thou takest refuge in the churches and helpest to clear away spiders and buzzing flies, and criest unto God like the young ravens, and commendest thyself to the eternal Creator, all will be well with thee, and that even if the whole world were full of wild malicious birds.""
+- Is the sentence a dialogue or part of dialogue: True"
+104_Wise_Folks_0,307,True,"- Mention: I
+- Sentence: ""Why should I not do you this favor?"" said he, and mounted the horse and rode off in a quick trot.
+- Is the sentence a dialogue or part of dialogue: True"
+134_The_Six_Servants_0,95,True,"- Mention: your
+- Sentence: ""If you will give me your beautiful daughter, I will perform any task you set me.""
+- Is the sentence a dialogue or part of dialogue: True"
+012_Rapunzel_0,78,True,"- Mention: your
+- Sentence: ""Ah , "" answered he , "" let mercy take the place of justice , I only made up my mind to do it out of necessity . My wife saw {{your}} (#This is the marked mention) rampion from the window , and felt such a longing for it that she would have died if she had not got some to eat . ""
+- Is the sentence a dialogue or part of dialogue: True"
+193_The_Drummer_0,418,True,"- Mention: I
+- Sentence: ""Ah , "" said the King 's daughter , "" I beg thee to be careful . On thy arrival do not kiss thy parents on the right cheek , or else thou wilt forget everything , and {{I}} shall stay behind here outside , alone and deserted . ""
+- Is the sentence a dialogue or part of dialogue: True"
+"054_The_Knapsack,_the_Hat,_and_the_Horn_0",68,True,"- Mention: my
+- Sentence: ""If I could but eat my fill once more ! ""
+- Is the sentence a dialogue or part of dialogue: True"
+037_Thumbling_0,140,True,"- Mention: thou
+- Sentence: ""Where wilt thou sit ? "" they said to him.
+- Is the sentence a dialogue or part of dialogue: True"
+135_The_White_Bride_and_the_Black_One_0,80,True,"- Mention: his
+- Sentence: ""Then she answered, ""But, I pray thee, let no one see the picture.""""
+- Is the sentence a dialogue or part of dialogue: True"
+052_King_Thrushbeard_0,202,True,"- Mention: me
+- Sentence: ""Alas , "" thought she , "" if any of the people from my father 's kingdom come to the market and see {{me}} sitting there , selling , how they will mock me ? ""
+- Is the sentence a dialogue or part of dialogue: True"
+"088_The_Singing,_Springing_Lark_0",278,True,"- Mention: thou
+- Sentence: ""No,"" said the moon, ""I have seen no dove, but here I give thee an egg, break it when thou art in great need.""
+- Is the sentence a dialogue or part of dialogue: True"
+"054_The_Knapsack,_the_Hat,_and_the_Horn_0",269,True,"- Mention: I
+- Sentence: ""One thing comes on the top of another,"" thought he, ""and I feel as if my luck had not yet come to an end.""
+- Is the sentence a dialogue or part of dialogue: True"
+"088_The_Singing,_Springing_Lark_0",54,True,"- Mention: thee
+- Sentence: ""I did not know that the bird belonged to thee.""
+- Is the sentence a dialogue or part of dialogue: True"
+134_The_Six_Servants_0,48,True,"- Mention: I
+- Sentence: ""I am listening,"" replied the man.
+- Is the sentence a dialogue or part of dialogue: True"
+060_The_Two_Brothers_0,1367,True,"- Mention: my
+- Sentence: ""That which I hold in {{my}} hand shall help me to do it.""
+- Is the sentence a dialogue or part of dialogue: True"
+179_The_Goose-Girl_at_the_Well_0,83,True,"- Mention: I
+- Sentence: ""My father is certainly no peasant,"" replied he, ""but a rich count; nevertheless, that you may see that it is not only peasants who can carry things, I will take your bundle.""
+- Is the sentence a dialogue or part of dialogue: True"
+122_Donkey_Cabbages_0,188,True,"- Mention: I
+- Sentence: ""Ah , my beloved , forgive me for the evil I have done you ; my mother drove me to it ; it was done against my will , for I love you dearly .""
+- Is the sentence a dialogue or part of dialogue: True"
+134_The_Six_Servants_0,366,True,"- Mention: my
+- Sentence: ""I have deserved this for {{my}} haughtiness and pride.""
+- Is the sentence a dialogue or part of dialogue: True"
+"054_The_Knapsack,_the_Hat,_and_the_Horn_0",431,True,"- Mention: the knapsack
+- Sentence: ""Dear child,"" said he, ""this knapsack is my greatest treasure; as long as I have it, there is no power on earth that I am afraid of.""
+- Is the sentence a dialogue or part of dialogue: True"
+169_The_Hut_in_the_Forest_0,133,True,"- Mention: your
+- Sentence: "" It is not my fault , "" she replied , "" the girl went out with {{your}} (#This is the marked mention) dinner , and must have lost herself , but she is sure to come back to-morrow . ""
+- Is the sentence a dialogue or part of dialogue: True"
+"088_The_Singing,_Springing_Lark_0",383,True,"- Mention: God still helps me
+- Sentence: She said, ""God still helps me,"" and opened the casket that the sun had given her.
+- Is the sentence a dialogue or part of dialogue: True"
+092_The_King_of_the_Golden_Mountain_0,250,False,"- Mention: him
+- Sentence: Eight years had already gone by, when the King bethought him of his father; his heart was moved, and he wished to visit him.
+- Is the sentence a dialogue or part of dialogue: False"
+006_Faithful_John_0,227,True,"- Mention: I
+- Sentence: ""Ah,"" cried she in her alarm, ""I am betrayed! I am carried away and have fallen into the power of a merchant — I would die rather!""
+- Is the sentence a dialogue or part of dialogue: True"
+047_The_Juniper-Tree_0,55,True,"- Mention: {{me}}
+- Sentence: ""If I die then bury {{me}} beneath the juniper-tree.""
+- Is the sentence a dialogue or part of dialogue: True"
+107_The_Two_Travellers_0,724,True,"- Mention: I
+- Sentence: ""In nine days from this time repair to the royal palace, and there will I come.""
+- Is the sentence a dialogue or part of dialogue: True"
+121_The_King’s_Son_Who_Feared_Nothing_0,287,True,"- Mention: I
+- Sentence: ""I have no fear; with God 's help I will try it.""
+- Is the sentence a dialogue or part of dialogue: True"
+"036_The_Wishing-Table,_the_Gold-Ass,_and_the_Cudgel_in_the_Sack_0",567,True,"- Mention: {{him}} 
+- Sentence: ""I will tell thee why,"" replied the master; ""if any one has done anything to injure thee, do but say, 'Out of the sack, Cudgel!' and the cudgel will leap forth among the people, and play such a dance on their backs that they will not be able to stir or move for a week, and it will not leave off until thou sayest, 'Into the sack, Cudgel!'""
+- Is the sentence a dialogue or part of dialogue: True"
+185_The_Poor_Boy_in_the_Grave_0,179,True,"- Mention: his
+- Sentence: ""It can not have been poison, "" thought he, ""but the farmer once said there was a small bottle of poison for flies in the box in which he keeps his clothes; that, no doubt, will be the true poison, and bring death to me.""
+- Is the sentence a dialogue or part of dialogue: True"
+169_The_Hut_in_the_Forest_0,41,False,"- Mention: me
+- Sentence: ""There ought to be some people living there, who can take me in for the night,"" thought she, and went up to the light.
+- Is the sentence a dialogue or part of dialogue: False"
+071_How_Six_Men_Got_on_in_the_World_0,95,True,"- Mention: {{me}}
+- Sentence: ""Oh , go with {{me}} (#This is the marked mention) . If we five are together , we shall carry the whole world before us .""
+- Is the sentence a dialogue or part of dialogue: True"
+013_The_Three_Little_Men_in_the_Wood_0,222,False,"- Mention: she
+- Sentence: At length she took a cauldron, set it on the fire, and boiled yarn in it.
+- Is the sentence a dialogue or part of dialogue: False"
+134_The_Six_Servants_0,85,True,"- Mention: thou
+- Sentence: The prince said, ""Come with me if thou wilt, for I am still in want of such an one.""
+- Is the sentence a dialogue or part of dialogue: True"
+029_The_Devil_With_the_Three_Golden_Hairs_0,319,True,"- Mention: you
+- Sentence: ""What do you want ? "" said she to him, but she did not look so very wicked.
+- Is the sentence a dialogue or part of dialogue: True"
+192_The_Master-Thief_0,41,True,"- Mention: he
+- Sentence: ""No,"" answered the peasant, ""I had a son, it is true, but it is long since he went out into the world. He was a ne ' er-do-well; sharp, and knowing, but he would learn nothing and was full of bad tricks, at last he ran away from me, and since then I have heard nothing of him.""
+- Is the sentence a dialogue or part of dialogue: True"
+193_The_Drummer_0,243,True,"- Mention: my
+- Sentence: ""Stay here,"" said the maiden, ""I will help thee out of thy difficulty. Thou art tired, lay thy head in my lap, and sleep. When thou awakest again, thy work will be done.""
+- Is the sentence a dialogue or part of dialogue: True"
+192_The_Master-Thief_0,270,False,"- Mention: him
+- Sentence: He had a good idea, he unbuckled the girths of the saddle, tied a couple of ropes which were hanging to a ring on the wall fast to the saddle, and drew the sleeping rider up into the air on it, then he twisted the rope round the posts, and made it fast.
+- Is the sentence a dialogue or part of dialogue: False"
+121_The_King’s_Son_Who_Feared_Nothing_0,68,True,"- Mention: thine
+- Sentence: ""Yes, but even if thou dost get into the garden, and seest the apple hanging to the tree, it is still not thine; a ring hangs in front of it, through which any one who wants to reach the apple and break it off, must put his hand, and no one has yet had the luck to do it.""
+- Is the sentence a dialogue or part of dialogue: True"
+"036_The_Wishing-Table,_the_Gold-Ass,_and_the_Cudgel_in_the_Sack_0",546,True,"- Mention: {{me}} 
+- Sentence: ""I can put on the sack,"" said he, ""and it may be of good service to {{me}} , but why should the cudgel be in it? It only makes it heavy.""
+- Is the sentence a dialogue or part of dialogue: True"
+163_The_Glass_Coffin_0,155,True,"- Mention: I
+- Sentence: "" Just Heaven ! "" cried she , "" my deliverance is at hand ! Quick , quick , help me out of my prison ; if thou pushest back the bolt of this glass coffin , then I shall be free . ""
+- Is the sentence a dialogue or part of dialogue: True"
+193_The_Drummer_0,40,False,"- Mention: her
+- Sentence: He took it out of his pocket, and reached it to her in the dark.
+- Is the sentence a dialogue or part of dialogue: False"
+"054_The_Knapsack,_the_Hat,_and_the_Horn_0",76,True,"- Mention: my
+- Sentence: ""This time,"" said he, ""my wish has been fulfilled at the right moment.""
+- Is the sentence a dialogue or part of dialogue: True"
+037_Thumbling_0,364,True,"- Mention: he
+- Sentence: ""Perhaps, "" thought he, ""the wolf will listen to what I have got to say,"" and he called to him from out of his stomach, ""Dear wolf, I know of a magnificent feast for you.""
+- Is the sentence a dialogue or part of dialogue: True"
+193_The_Drummer_0,237,True,"- Mention: I
+- Sentence: ""Ah,"" said he, ""I can not finish the first piece of work, how will it be with the others? I came forth to seek a king's daughter who is said to dwell here, but I have not found her, and I will go farther.""
+- Is the sentence a dialogue or part of dialogue: True"
+126_Ferdinand_the_Faithful_0,97,True,"- Mention: my
+- Sentence: ""Wait, {{my}} dear fish, I will help thee get into the water,"" and he took hold of it by the tail, and threw it into the lake.
+- Is the sentence a dialogue or part of dialogue: True"
+046_Fitcher’s_Bird_0,54,True,"- Mention: {{thee}}
+- Sentence: ""Preserve the egg carefully for me, and carry it continually about with {{thee}}, for a great misfortune would arise from the loss of it.""
+- Is the sentence a dialogue or part of dialogue: True"
+"088_The_Singing,_Springing_Lark_0",251,True,"- Mention: thee
+- Sentence: ""In this no man can help thee , "" she climbed up to the sun, and said to him, "" Thou shinest into every crevice, and over every peak, hast thou not seen a white dove flying ? ""
+- Is the sentence a dialogue or part of dialogue: True"
+047_The_Juniper-Tree_0,54,True,"- Mention: I
+- Sentence: ""If I die then bury me beneath the juniper-tree.""
+- Is the sentence a dialogue or part of dialogue: True"
+195_The_Grave-Mound_0,111,False,"- Mention: him
+- Sentence: ""It seemed as if the rich man had foreseen what was about to happen, for when three days were gone by, he suddenly dropped down dead.""
+- Is the sentence a dialogue or part of dialogue: False"
+122_Donkey_Cabbages_0,183,True,"- Mention: thou
+- Sentence: The huntsman asked, ""Why dost thou stand there so sorrowfully?""
+- Is the sentence a dialogue or part of dialogue: True"
+126_Ferdinand_the_Faithful_0,89,True,"- Mention: thou
+- Sentence: ""Thou shouldst leave it lying there ; thou wilt easily find a pen where thou art going , if thou hast need of one .""
+- Is the sentence a dialogue or part of dialogue: True"
+"088_The_Singing,_Springing_Lark_0",131,True,"- Mention: I
+- Sentence: ""Dearest father, indeed your promise must be fulfilled. I will go thither and soften the lion, so that I may return to thee safely.""
+- Is the sentence a dialogue or part of dialogue: True"
+013_The_Three_Little_Men_in_the_Wood_0,117,True,"- Mention: thou
+- Sentence: ""What dost thou here in the forest in the winter time, in thy thin dress?""
+- Is the sentence a dialogue or part of dialogue: True"
+060_The_Two_Brothers_0,1833,True,"- Mention: thy
+- Sentence: ""No, thy animals will bite me.""
+- Is the sentence a dialogue or part of dialogue: True"
+044_Godfather_Death_0,201,False,"- Mention: he
+- Sentence: ""Then he gave the King some of the herb, and he recovered and grew healthy again.""
+- Is the sentence a dialogue or part of dialogue: False"
+197_The_Crystal_Ball_0,42,True,"- Mention: thee
+- Sentence: ""We are quarrelling about a cap, and which of us it is to belong to, and as we are equally strong, neither of us can get the better of the other. The small men are cleverer than we are, so we will leave the decision to thee.""
+- Is the sentence a dialogue or part of dialogue: True"
+161_Snow-White_and_Rose-Red_0,407,False,"- Mention: him
+- Sentence: Snow-white was married to him, and Rose-red to his brother, and they divided between them the great treasure which the dwarf had gathered together in his cave.
+- Is the sentence a dialogue or part of dialogue: False"
+083_Hans_in_Luck_0,336,True,"- Mention: you
+- Sentence: ""How shall I manage that ? "" said Hans .
+- Is the sentence a dialogue or part of dialogue: True"
+100_The_Devil’s_Sooty_Brother_0,110,False,"- Mention: he
+- Sentence: Then {{he}} (#This is the marked mention) wanted to see who might be sitting up in the third kettle it was actually be but a general.
+- Is the sentence a dialogue or part of dialogue: False"
+056_Sweetheart_Roland_0,130,False,"- Mention: her
+- Sentence: What did she see there? Her own child, whose head she had cut off, bathed in her blood.
+- Is the sentence a dialogue or part of dialogue: False"
+071_How_Six_Men_Got_on_in_the_World_0,17,True,"- Mention: He
+- Sentence: ""Wilt thou be my servant and go with me ?""
+- Is the sentence a dialogue or part of dialogue: True"
+092_The_King_of_the_Golden_Mountain_0,478,True,"- Mention: I
+- Sentence: ""Oh, no,"" said he, ""I will not do that.""
+- Is the sentence a dialogue or part of dialogue: True"
+121_The_King’s_Son_Who_Feared_Nothing_0,203,False,"- Mention: he
+- Sentence: But the faithful lion had not deserted its master; it held him fast by the clothes, and drew him gradually back again.
+- Is the sentence a dialogue or part of dialogue: False"
+101_Bearskin_0,219,True,"- Mention: your
+- Sentence: ""If that is your only trouble,"" said Bearskin, ""I have plenty of money.""
+- Is the sentence a dialogue or part of dialogue: True"
+006_Faithful_John_0,40,False,"- Mention: his
+- Sentence: ""And when Faithful John had once more given his promise to the old King about this, the King said no more, but laid his head on his pillow, and died.""
+- Is the sentence a dialogue or part of dialogue: False"
+100_The_Devil’s_Sooty_Brother_0,122,False,"- Mention: him
+- Sentence: ""Aha , old bird , do I meet you here ? Once you had me in your power , now I have you . "" And he fetched the bellows and made hell-fire blaze right under him.
+- Is the sentence a dialogue or part of dialogue: False"
+060_The_Two_Brothers_0,1793,True,"- Mention: I
+- Sentence: ""I must hunt there once more.""
+- Is the sentence a dialogue or part of dialogue: True"
+016_The_Three_Snake-Leaves_0,156,True,"- Mention: me
+- Sentence: ""Thou art with me, dear wife,"" he answered, and told her how everything had happened, and how he had brought her back again to life.
+- Is the sentence a dialogue or part of dialogue: True"
+101_Bearskin_0,45,False,"- Mention: him
+- Sentence: ""All at once he heard a rustling, and when he looked round, a strange man stood before him, who wore a green coat and looked right stately, but had a hideous cloven foot.""
+- Is the sentence a dialogue or part of dialogue: False"
+127_The_Iron_Stove_0,378,False,"- Mention: her
+- Sentence: Thereupon, while it was still night, he got into a carriage with her, and they took away the false bride's clothes so that she could not get up.
+- Is the sentence a dialogue or part of dialogue: False"
+169_The_Hut_in_the_Forest_0,19,True,"- Mention: he
+- Sentence: "" Let my dinner be brought into the forest to me by my eldest daughter , or I shall never get my work done , and in order that she may not miss her way , "" he added , "" I will take a bag of millet with me and strew the seeds on the path . ""
+- Is the sentence a dialogue or part of dialogue: True"
+127_The_Iron_Stove_0,171,False,"- Mention: I
+- Sentence: She thought, ""Ah, whither have I come,"" and peeped in through the window, but she saw nothing inside but toads, big and little, except a table well covered with wine and roast meat, and the plates and glasses were of silver.
+- Is the sentence a dialogue or part of dialogue: False"
+094_The_Peasant’s_Wise_Daughter_0,288,True,"- Mention: I
+- Sentence: ""Yes, my dear husband, if you command this, I will do it, ""
+- Is the sentence a dialogue or part of dialogue: True"
+"054_The_Knapsack,_the_Hat,_and_the_Horn_0",333,True,"- Mention: Thou
+- Sentence: ""Thou givest out that thou art our brother who despised silver and gold, and craved for something still better for himself.""
+- Is the sentence a dialogue or part of dialogue: True"
+092_The_King_of_the_Golden_Mountain_0,451,True,"- Mention: thee
+- Sentence: They said, ""No, we will not give thee that; if thou were to say, 'All heads off but mine,' all our heads would be off, and thou alone wouldst be left with thine.""
+- Is the sentence a dialogue or part of dialogue: True"
+186_The_True_Sweethearts_0,114,True,"- Mention: she
+- Sentence: But the good old woman appeared again, and when she learnt the cause of her grief, she said, ""Be of good cheer, my child. Go into the thicket and lie down and sleep; I will soon do thy work.""
+- Is the sentence a dialogue or part of dialogue: True"
+029_The_Devil_With_the_Three_Golden_Hairs_0,549,True,"- Mention: you
+- Sentence: ""Now all the conditions are fulfilled, and you can keep my daughter. But tell me, dear son-in-law, where did all that gold come from? this is tremendous wealth!""
+- Is the sentence a dialogue or part of dialogue: True"
+089_The_Goose-Girl_0,452,True,"- Mention: thou
+- Sentence: ""If thou wilt not tell me anything, tell thy sorrows to the iron-stove there,"" and he went away.
+- Is the sentence a dialogue or part of dialogue: True"
+129_The_Four_Skilful_Brothers_0,144,True,"- Mention: his
+- Sentence: ""I will soon know where she is,"" said the astronomer, and looked through his telescope and said, ""I see her already, she is far away from here on a rock in the sea, and the dragon is beside her watching her.""
+- Is the sentence a dialogue or part of dialogue: True"
+060_The_Two_Brothers_0,1690,True,"- Mention: thou
+- Sentence: Said he, ""Come down, and warm thyself if thou art cold.""
+- Is the sentence a dialogue or part of dialogue: True"
+192_The_Master-Thief_0,303,True,"- Mention: thee
+- Sentence: ""For once thou hast succeeded, but things won ' t go so well the second time, and I warn thee that if thou comest before me as a thief, I will handle thee as I would a thief.""
+- Is the sentence a dialogue or part of dialogue: True"
+127_The_Iron_Stove_0,30,True,"- Mention: {{thee}}
+- Sentence: ""Thou shalt return here, and bring a knife with {{thee}} , and scrape a hole in the iron.""
+- Is the sentence a dialogue or part of dialogue: True"
+104_Wise_Folks_0,178,True,"- Mention: I
+- Sentence: ""Oh, yes, I have seen him, but all men can't get on well.""
+- Is the sentence a dialogue or part of dialogue: True"
+193_The_Drummer_0,295,True,"- Mention: {{thee}}
+- Sentence: ""Dost thou see that the wood is piled up and arranged, one bough alone remains; but when the old woman comes this evening and asks thee about that bough, give her a blow with it, and say, 'That is for thee, thou witch.'""
+- Is the sentence a dialogue or part of dialogue: True"
+013_The_Three_Little_Men_in_the_Wood_0,85,True,"- Mention: I
+- Sentence: ""And why am I to go in this paper frock ? It is so cold outside that one 's very breath freezes ! The wind will blow through the frock , and the thorns will tear it off my body .""
+- Is the sentence a dialogue or part of dialogue: True"
+029_The_Devil_With_the_Three_Golden_Hairs_0,309,True,"- Mention: I
+- Sentence: ""I know everything,"" answered the luck-child.
+- Is the sentence a dialogue or part of dialogue: True"
+063_The_Three_Feathers_0,14,True,"- Mention: my
+- Sentence: Then he said to them, ""Go forth, and he who brings me the most beautiful carpet shall be King after {{my}} (#This is the marked mention) death.""
+- Is the sentence a dialogue or part of dialogue: True"
+093_The_Raven_0,147,True,"- Mention: I
+- Sentence: He replied, ""I am not allowed to eat or drink, and will not do so.""
+- Is the sentence a dialogue or part of dialogue: True"
+060_The_Two_Brothers_0,1859,True,"- Mention: me
+- Sentence: ""What dost thou want? Thou shalt not touch me.""
+- Is the sentence a dialogue or part of dialogue: True"
+186_The_True_Sweethearts_0,333,True,"- Mention: me
+- Sentence: ""Alas ! "" said she , "" I believed him true to me , but he has forgotten me . ""
+- Is the sentence a dialogue or part of dialogue: True"
+017_The_White_Snake_0,132,True,"- Mention: you
+- Sentence: ""We will remember {{you}} (#This is the marked mention) and repay you for saving us !""
+- Is the sentence a dialogue or part of dialogue: True"
+060_The_Two_Brothers_0,1860,True,"- Mention: he
+- Sentence: But he said, ""They will not hurt thee.""
+- Is the sentence a dialogue or part of dialogue: True"
+"188_The_Spindle,_The_Shuttle,_and_the_Needle_0",109,True,"- Mention: my
+- Sentence: "" Spindle , my spindle , haste , haste thee away , And here to my house bring the wooer , I pray . ""
+- Is the sentence a dialogue or part of dialogue: True"
+092_The_King_of_the_Golden_Mountain_0,552,True,"- Mention: {{It}}
+- Sentence: She said, ""Has the devil power over me, or did my deliverer never come?"" Then he struck her in the face, and said, ""Did thy deliverer never come? {{It}} is he who has thee in his power, thou traitor. Have I deserved this from thee?""
+- Is the sentence a dialogue or part of dialogue: True"
+"054_The_Knapsack,_the_Hat,_and_the_Horn_0",228,True,"- Mention: thou
+- Sentence: ""If thou wilt eat some potatoes with salt, but with no dripping, come and sit down with me,"" said the sooty fellow.
+- Is the sentence a dialogue or part of dialogue: True"
+"088_The_Singing,_Springing_Lark_0",129,True,"- Mention: I
+- Sentence: ""Dearest father, indeed your promise must be fulfilled. I will go thither and soften the lion, so that I may return to thee safely.""
+- Is the sentence a dialogue or part of dialogue: True"
+193_The_Drummer_0,406,True,"- Mention: my
+- Sentence: ""I do not like the old saddle,"" said she, ""I need only turn my wishing-ring and we shall be at home.""
+- Is the sentence a dialogue or part of dialogue: True"
+100_The_Devil’s_Sooty_Brother_0,267,True,"- Mention: I
+- Sentence: ""Go and tell the landlord that he must return you your money, or else I will come and fetch him, and he shall poke the fire in your place.""
+- Is the sentence a dialogue or part of dialogue: True"
+060_The_Two_Brothers_0,1811,True,"- Mention: I
+- Sentence: ""Stay here, and wait until I return, I want to chase the lovely wild beast.""
+- Is the sentence a dialogue or part of dialogue: True"
+100_The_Devil’s_Sooty_Brother_0,87,True,"- Mention: I
+- Sentence: ""Aha , old bird ! "" said he , "" Do I meet you here ? You once had me in your power , now I have you , "" and he quickly let the lid fall , poked the fire , and added a fresh log.
+- Is the sentence a dialogue or part of dialogue: True"
+007_The_Good_Bargain_0,14,True,"- Mention: I
+- Sentence: "" Come, then, if you won 't believe it, {{I}} can count it out to you.""
+- Is the sentence a dialogue or part of dialogue: True"
+046_Fitcher’s_Bird_0,113,True,"- Mention: thou
+- Sentence: ""Since thou hast gone into the room against my will, "" said he, "" thou shalt go back into it against thine own. Thy life is ended.""
+- Is the sentence a dialogue or part of dialogue: True"
+127_The_Iron_Stove_0,313,True,"- Mention: I
+- Sentence: ""I set thee free when thou wert in an iron stove in the wild forest, I sought thee, and walked over a glass mountain, and three sharp swords, and a great lake before I found thee, and yet thou wilt not hear me!""
+- Is the sentence a dialogue or part of dialogue: True"
+193_The_Drummer_0,340,True,"- Mention: I
+- Sentence: ""Oh, I am cold,"" said she, ""but that is a fire that burns; it warms my old bones for me, and does me good! But there is a log lying there which won't burn, bring it out for me.""
+- Is the sentence a dialogue or part of dialogue: True"
+193_The_Drummer_0,79,True,"- Mention: I
+- Sentence: ""I am drumming,"" he replied, ""because I want to show the way to many thousands who are following me.""
+- Is the sentence a dialogue or part of dialogue: True"
+129_The_Four_Skilful_Brothers_0,228,True,"- Mention: my
+- Sentence: The huntsman said, ""You and the princess, and all of you, would have been torn to pieces by the dragon if {{my}} ball had not hit him, so she is mine.""
+- Is the sentence a dialogue or part of dialogue: True"
+104_Wise_Folks_0,332,True,"- Mention: his
+- Sentence: ""Thou hast done well,"" answered she, ""thy legs are younger than his, and thou canst go on foot.""
+- Is the sentence a dialogue or part of dialogue: True"
+186_The_True_Sweethearts_0,93,True,"- Mention: she
+- Sentence: When she went out she said, ""The creature is worth more than her salt. I must give her some work that is still harder.""
+- Is the sentence a dialogue or part of dialogue: True"
+104_Wise_Folks_0,50,True,"- Mention: I
+- Sentence: ""I am quite willing to give that, honestly speaking, they are worth it. I will take the beasts away with me at once.""
+- Is the sentence a dialogue or part of dialogue: True"
+"088_The_Singing,_Springing_Lark_0",342,True,"- Mention: thou
+- Sentence: ""Then the night wind said to her, 'I will advise thee; go to the Red Sea, on the right bank are some tall reeds, count them, break off the eleventh, and strike the dragon with it, then the lion will be able to subdue it, and both then will regain their human form.'""
+- Is the sentence a dialogue or part of dialogue: True"
+126_Ferdinand_the_Faithful_0,87,True,"- Mention: thou
+- Sentence: "" Thou shouldst leave it lying there ; thou wilt easily find a pen where thou art going , if thou hast need of one . ""
+- Is the sentence a dialogue or part of dialogue: True"
+116_The_Blue_Light_0,116,True,"- Mention: he
+- Sentence: ""I have served the King faithfully, but he has dismissed me, and left me to hunger, and now I want to take my revenge.""
+- Is the sentence a dialogue or part of dialogue: True"
+134_The_Six_Servants_0,98,True,"- Mention: you
+- Sentence: ""If you will give me your beautiful daughter, I will perform any task you set me.""
+- Is the sentence a dialogue or part of dialogue: True"
+192_The_Master-Thief_0,425,True,"- Mention: me
+- Sentence: ""Hearken, sinful men, the end of all things has come! The last day is at hand! Hearken! Hearken! Whosoever wishes to go to heaven with {{me}} (#This is the marked mention) must creep into the sack.""
+- Is the sentence a dialogue or part of dialogue: True"
+060_The_Two_Brothers_0,1735,False,"- Mention: {{I}}
+- Sentence: ""A great misfortune must have befallen my brother, but perhaps {{I}} can still save him, for half the knife is still bright.""
+- Is the sentence a dialogue or part of dialogue: False"
+046_Fitcher’s_Bird_0,193,True,"- Mention: my
+- Sentence: ""Oh, very well,"" said she, ""thou shalt first take a basketful of gold to my father and mother, and carry it thyself on thy back; in the meantime I will prepare for the wedding.""
+- Is the sentence a dialogue or part of dialogue: True"
+186_The_True_Sweethearts_0,269,True,"- Mention: She
+- Sentence: ""Keep true to me, and never let any one else kiss thee on this cheek. I will wait here under the lime-tree until thou returnest.""
+- Is the sentence a dialogue or part of dialogue: True"
+"054_The_Knapsack,_the_Hat,_and_the_Horn_0",397,True,"- Mention: I
+- Sentence: ""And now,"" said he, ""I will not make peace until the King gives me his daughter to wife, and I govern the whole kingdom in his name.""
+- Is the sentence a dialogue or part of dialogue: True"
+007_The_Good_Bargain_0,26,True,"- Mention: I
+- Sentence: ""What , "" cried the peasant , quite angry , "" since you are determined to know better than {{I}} (#This is the marked mention) , count it yourselves , "" and threw all the money into the water to them .
+- Is the sentence a dialogue or part of dialogue: True"
+100_The_Devil’s_Sooty_Brother_0,85,True,"- Mention: me
+- Sentence: ""Aha , old bird ! "" said he , "" Do I meet you here ? You once had me in your power , now I have you , "" and he quickly let the lid fall , poked the fire , and added a fresh log .
+- Is the sentence a dialogue or part of dialogue: True"
+057_The_Golden_Bird_0,632,True,"- Mention: him
+- Sentence: But how did it fare with the poor Fox ? Long afterwards the King 's son was once again walking in the wood , when the Fox met him and said , "" You have everything now that you can wish for , but there is never an end to my misery , and yet it is in your power to free me , "" and again he asked him with tears to shoot him dead and chop off his head and feet .
+- Is the sentence a dialogue or part of dialogue: True"
+197_The_Crystal_Ball_0,83,True,"- Mention: her
+- Sentence: ""Ah,"" she answered, ""this is not my form; human eyes can only see me in this state of ugliness, but that thou mayst know what I am like, look in the mirror it does not let itself be misled it will show thee my image as it is in truth.""
+- Is the sentence a dialogue or part of dialogue: True"
+"054_The_Knapsack,_the_Hat,_and_the_Horn_0",334,True,"- Mention: thou
+- Sentence: They mocked and said, ""Thou givest out that thou art our brother who despised silver and gold, and craved for something still better for himself.""
+- Is the sentence a dialogue or part of dialogue: True"
+015_Hansel_and_Grethel_0,418,True,"- Mention: you
+- Sentence: ""I do not know how I am to do it; how do you get in?""
+- Is the sentence a dialogue or part of dialogue: True"
+029_The_Devil_With_the_Three_Golden_Hairs_0,284,True,"- Mention: you
+- Sentence: ""Then you can do us a favour and tell us why a tree in our town which once bore golden apples now does not even put forth leaves ?""
+- Is the sentence a dialogue or part of dialogue: True"
+057_The_Golden_Bird_0,636,False,"- Mention: he
+- Sentence: So he did it, and scarcely was it done when the Fox was changed into a man, and was no other than the brother of the beautiful princess, who at last was freed from the magic charm which had been laid upon him.
+- Is the sentence a dialogue or part of dialogue: False"
+060_The_Two_Brothers_0,607,True,"- Mention: me
+- Sentence: ""Now thou wilt be my dearest husband, for my father has promised me to him who kills the dragon.""
+- Is the sentence a dialogue or part of dialogue: True"
+004_The_Story_of_the_Youth_Who_Went_Forth_to_Learn_What_Fear_Was_0,591,True,"- Mention: {{thou}} 
+- Sentence: ""Hast thou not shuddered then ?""
+- Is the sentence a dialogue or part of dialogue: True"
+060_The_Two_Brothers_0,1780,True,"- Mention: my brother
+- Sentence: ""I had lost my brother in a forest, and could not find my way out again any sooner.""
+- Is the sentence a dialogue or part of dialogue: True"
+029_The_Devil_With_the_Three_Golden_Hairs_0,307,True,"- Mention: You
+- Sentence: ""You shall know that,"" answered he; ""only wait until I come back.""
+- Is the sentence a dialogue or part of dialogue: True"
+092_The_King_of_the_Golden_Mountain_0,509,True,"- Mention: me
+- Sentence: ""False woman, she betrayed and deserted me whilst I was asleep!""
+- Is the sentence a dialogue or part of dialogue: True"
+206_The_Three_Green_Twigs_0,105,True,"- Mention: me
+- Sentence: Then said he , "" Good woman , keep me with you in your house for this night ; "" but she said , "" No , I dare not , even if I wished , I have three sons who are wicked and wild , if they come home from their robbing expedition , and find you , they would kill us both . ""
+- Is the sentence a dialogue or part of dialogue: True"
+094_The_Peasant’s_Wise_Daughter_0,122,True,"- Mention: the King
+- Sentence: ""Come to me not clothed, not naked, not riding, not walking, not in the road, and not out of the road, and if thou canst do that I will marry {{thee}}.""
+- Is the sentence a dialogue or part of dialogue: True"
+053_Little_Snow-white_0,495,True,"- Mention: you
+- Sentence: ""White as snow, red as blood, black as ebony-wood! this time the dwarfs can not wake {{you}} up again.""
+- Is the sentence a dialogue or part of dialogue: True"
+186_The_True_Sweethearts_0,100,True,"- Mention: {{that}}
+- Sentence: ""There is a spoon for thee; with {{that}} thou must empty out for me the great pond which is beside the garden, and if it is not done by night, thou knowest what will happen.""
+- Is the sentence a dialogue or part of dialogue: True"
+003_Our_Lady’s_Child_0,82,True,"- Mention: thy
+- Sentence: ""Oh no,"" said the little angels, ""that would be a sin. The Virgin Mary has forbidden it, and it might easily cause thy unhappiness.""
+- Is the sentence a dialogue or part of dialogue: True"
+193_The_Drummer_0,484,True,"- Mention: your
+- Sentence: ""Not for money,"" she answered, ""but if I may pass the first night outside the door of the room where your betrothed sleeps, I will give it up to you.""
+- Is the sentence a dialogue or part of dialogue: True"
+126_Ferdinand_the_Faithful_0,205,True,"- Mention: me
+- Sentence: ""Dost thou speak, my little white horse ; canst thou do that ?""
+- Is the sentence a dialogue or part of dialogue: True"
+134_The_Six_Servants_0,377,True,"- Mention: you
+- Sentence: ""Just come with us, and we will take you to him,"" and they took her up to the palace, and when she entered the hall, there stood her husband in kingly raiment.
+- Is the sentence a dialogue or part of dialogue: True"
+029_The_Devil_With_the_Three_Golden_Hairs_0,327,True,"- Mention: he
+- Sentence: ""I should like to have three golden hairs from the devil 's head , "" answered he , "" else I can not keep my wife . ""
+- Is the sentence a dialogue or part of dialogue: True"
+192_The_Master-Thief_0,159,True,"- Mention: I
+- Sentence: ""Lord count,"" answered the master-thief, ""Think of three things, as difficult as you like, and if I do not perform your tasks, do with me what you will.""
+- Is the sentence a dialogue or part of dialogue: True"
+092_The_King_of_the_Golden_Mountain_0,371,True,"- Mention: thy
+- Sentence: ""I am tired; sit down, I will sleep awhile on thy lap.""
+- Is the sentence a dialogue or part of dialogue: True"
+097_The_Water_of_Life_0,520,False,"- Mention: him
+- Sentence: So he rode thither, and told him everything; how his brothers had betrayed him, and how he had nevertheless kept silence.
+- Is the sentence a dialogue or part of dialogue: False"
+192_The_Master-Thief_0,158,True,"- Mention: you
+- Sentence: ""Lord count,"" answered the master-thief, ""Think of three things, as difficult as you like, and if I do not perform your tasks, do with me what you will.""
+- Is the sentence a dialogue or part of dialogue: True"
+053_Little_Snow-white_0,341,False,"- Mention: you
+- Sentence: ""The old peddler-woman was no one else than the wicked Queen; take care and let no one come in when we are not with you.""
+- Is the sentence a dialogue or part of dialogue: False"
+"036_The_Wishing-Table,_the_Gold-Ass,_and_the_Cudgel_in_the_Sack_0",46,True,"- Mention: {{him}}
+- Sentence: ""Hollo, thou liar: thou saidest the goat had had enough, and hast let her hunger!"" and in his anger he took the yard-measure from the wall, and drove {{him}} out with blows.
+- Is the sentence a dialogue or part of dialogue: True"
+076_The_Pink_0,275,True,"- Mention: I
+- Sentence: ""Lord King, your majesty must excuse me, I am a poor huntsman.""
+- Is the sentence a dialogue or part of dialogue: True"
+192_The_Master-Thief_0,309,True,"- Mention: I
+- Sentence: ""All the doors are locked and bolted, I will keep awake and wait for the thief, but if he gets in by the window, I will shoot him.""
+- Is the sentence a dialogue or part of dialogue: True"
+024_Mother_Holle_0,129,False,"- Mention: she
+- Sentence: Thereupon she took her by the hand, and led her to a large door.
+- Is the sentence a dialogue or part of dialogue: False"
+186_The_True_Sweethearts_0,20,True,"- Mention: she
+- Sentence: One day she said to her, ""Here are twelve pounds of feathers which thou must pick, and if they are not done this evening, thou mayst expect a good beating. Dost thou imagine thou art to idle away the whole day?""
+- Is the sentence a dialogue or part of dialogue: True"
+186_The_True_Sweethearts_0,263,True,"- Mention: thee
+- Sentence: ""Keep true to me, and never let any one else kiss thee on this cheek. I will wait here under the lime-tree until thou returnest.""
+- Is the sentence a dialogue or part of dialogue: True"
+093_The_Raven_0,371,True,"- Mention: I
+- Sentence: ""I will stay down here below, and wait for her.""
+- Is the sentence a dialogue or part of dialogue: True"
+104_Wise_Folks_0,120,False,"- Mention: her
+- Sentence: The man was enraged and lifted up his stick, and was just going to give her the beating he had promised her.
+- Is the sentence a dialogue or part of dialogue: False"
+101_Bearskin_0,180,False,"- Mention: he
+- Sentence: ""But as Bearskin thrust his hand into his pocket and pulled out a handful of ducats, the host let himself be persuaded and gave him a room in an outhouse.""
+- Is the sentence a dialogue or part of dialogue: False"
+003_Our_Lady’s_Child_0,76,True,"- Mention: I
+- Sentence: ""I will not quite open it, and I will not go inside it, but I will unlock it so that we can just see a little through the opening.""
+- Is the sentence a dialogue or part of dialogue: True"
+012_Rapunzel_0,85,True,"- Mention: him
+- Sentence: ""If the case be as thou sayest, I will allow thee to take away with thee as much rampion as thou wilt, only I make one condition, thou must give me the child which thy wife will bring into the world; it shall be well treated, and I will care for it like a mother.""
+- Is the sentence a dialogue or part of dialogue: True"
+061_The_Little_Peasant_0,10,True,"- Mention: I
+- Sentence: One day he said to her, ""Hark you, I have a good thought, there is our gossip the carpenter, he shall make us a wooden calf, and paint it brown, so that it look like any other, and in time it will certainly get big and be a cow.""
+- Is the sentence a dialogue or part of dialogue: True"
+047_The_Juniper-Tree_0,149,True,"- Mention: My
+- Sentence: ""Mother, "" said the little boy, ""how dreadful you look! Yes, give me an apple.""
+- Is the sentence a dialogue or part of dialogue: True"
+092_The_King_of_the_Golden_Mountain_0,556,True,"- Mention: I
+- Sentence: ""Did thy deliverer never come ? It is he who has thee in his power , thou traitor . Have I deserved this from thee ?""
+- Is the sentence a dialogue or part of dialogue: True"
+092_The_King_of_the_Golden_Mountain_0,491,True,"- Mention: I
+- Sentence: ""Oh, if I were but on the Golden Mountain , "" and at the same moment he vanished from the sight of the giants , and thus their inheritance was divided .
+- Is the sentence a dialogue or part of dialogue: True"
+003_Our_Lady’s_Child_0,78,True,"- Mention: I
+- Sentence: ""I will not quite open it, and I will not go inside it, but I will unlock it so that we can just see a little through the opening.""
+- Is the sentence a dialogue or part of dialogue: True"
+197_The_Crystal_Ball_0,86,True,"- Mention: I
+- Sentence: Then said he, ""How canst thou be set free? I fear no danger.""
+- Is the sentence a dialogue or part of dialogue: True"
+182_The_Little_Folks’_Presents_0,133,False,"- Mention: me
+- Sentence: ""The gold I got the night before is still there for {{me}} (#This is the marked mention), "" thought he, and went and brought it out, but how shocked he was when he saw that it likewise had again turned into coal.
+- Is the sentence a dialogue or part of dialogue: False"
+122_Donkey_Cabbages_0,186,True,"- Mention: I
+- Sentence: ""Ah, my beloved, "" was her answer, "" over yonder lies the Garnet Mountain, where the precious stones grow. I long for them so much that when I think of them, I feel quite sad, but who can get them? Only the birds; they fly and can reach them, but a man never.""
+- Is the sentence a dialogue or part of dialogue: True"
+169_The_Hut_in_the_Forest_0,193,False,"- Mention: her
+- Sentence: ""When she was asleep the old man came , looked at her , shook his head , and let her down into the cellar .""
+- Is the sentence a dialogue or part of dialogue: False"
+092_The_King_of_the_Golden_Mountain_0,437,True,"- Mention: I
+- Sentence: ""Give me the three things that I may see if they are still in good condition.""
+- Is the sentence a dialogue or part of dialogue: True"
+006_Faithful_John_0,89,True,"- Mention: thee
+- Sentence: ""I promised thy father before his death that thou shouldst not see that which is in this chamber, it might bring the greatest misfortune on thee and on me.""
+- Is the sentence a dialogue or part of dialogue: True"
+034_Clever_Elsie_0,203,True,"- Mention: I
+- Sentence: ""Yes, dear Hans, I will do that.""
+- Is the sentence a dialogue or part of dialogue: True"
+092_The_King_of_the_Golden_Mountain_0,471,True,"- Mention: thou
+- Sentence: ""Oh , no , "" said he , "" I will not do that . ""
+- Is the sentence a dialogue or part of dialogue: True"
+013_The_Three_Little_Men_in_the_Wood_0,121,True,"- Mention: I
+- Sentence: ""Ah,"" she answered, ""I am to look for a basketful of strawberries, and am not to go home until I can take them with me.""
+- Is the sentence a dialogue or part of dialogue: True"
+161_Snow-White_and_Rose-Red_0,409,False,"- Mention: his
+- Sentence: Snow-white was married to him, and Rose-red to his brother, and they divided between them the great treasure which the dwarf had gathered together in his cave.
+- Is the sentence a dialogue or part of dialogue: False"
+126_Ferdinand_the_Faithful_0,85,True,"- Mention: Thou
+- Sentence: At first he thought he would pick it up, but then again he thought to himself, ""Thou shouldst leave it lying there; thou wilt easily find a pen where thou art going, if thou hast need of one.""
+- Is the sentence a dialogue or part of dialogue: True"
+126_Ferdinand_the_Faithful_0,185,False,"- Mention: {{him}}
+- Sentence: ""Then the King sent for Ferdinand the Faithful, and told him that there was, in this place or in that place, a girl he loved, and that he was to bring her to {{him}}, and if he did not do it he should die.""
+- Is the sentence a dialogue or part of dialogue: False"
+161_Snow-White_and_Rose-Red_0,304,False,"- Mention: he
+- Sentence: Then he took out a sack of pearls which lay in the rushes, and without saying a word more he dragged it away and disappeared behind a stone.
+- Is the sentence a dialogue or part of dialogue: False"
+"054_The_Knapsack,_the_Hat,_and_the_Horn_0",428,True,"- Mention: thou
+- Sentence: ""If thou wouldst but lay aside that ugly knapsack, it makes disfigures thee so, that I can't help being ashamed of thee.""
+- Is the sentence a dialogue or part of dialogue: True"
+193_The_Drummer_0,30,True,"- Mention: {{you}}
+- Sentence: ""I entreat {{you}} to give me my dress back.""
+- Is the sentence a dialogue or part of dialogue: True"
+197_The_Crystal_Ball_0,74,True,"- Mention: thou
+- Sentence: ""Ah, "" she answered , "" this is not my form ; human eyes can only see me in this state of ugliness , but that thou mayst know what I am like , look in the mirror it does not let itself be misled it will show thee my image as it is in truth . ""
+- Is the sentence a dialogue or part of dialogue: True"

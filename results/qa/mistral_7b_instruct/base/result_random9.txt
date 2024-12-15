@@ -1,0 +1,6 @@
+Total: 600
+Correct: 365
+Other Correct: 0
+Phrase Correct: 526
+Correlation Count: 334
+Accuracy: 365/600 = 0.6083333333333333

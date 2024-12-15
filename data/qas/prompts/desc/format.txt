@@ -1,0 +1,5 @@
+Note that you can select the None of the Above option (The mention refers to: None of the Above), if the mention does not refer to any other entity/option. Also provide explanations in 1-2 sentences for the same. Do not produce any other extra text.
+Follow the below format:
+- Mention:
+- Explanation:
+- The mention refers to:

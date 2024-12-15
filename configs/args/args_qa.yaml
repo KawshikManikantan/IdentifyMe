@@ -1,0 +1,39 @@
+## System and Model Config
+model_name: "mistralai/Mistral-7B-Instruct-v0.3"
+model_prefix: null ## Added in run-time from external dictionary, add 
+precision: 16 #choices=[8, 16, 32]
+
+
+## Setup and Dataset Config
+split: "test" #choices=["test", "dev"]
+cot: "desc" #choices=["base", "desc"]
+naming_format: "name"
+device: "cuda:0"
+no_wandb: True
+
+## Path configs
+paths:
+  data_root: data
+  resource_root: qas
+  result_root: results/qa
+  instruction_file: ${paths.data_root}/${paths.resource_root}/prompts/${cot}/instruction.txt
+  format_file: ${paths.data_root}/${paths.resource_root}/prompts/${cot}/format.txt
+  eval_file: ${paths.data_root}/${paths.resource_root}/data/qas_${split}.jsonl
+  output_file:  ${paths.result_root}/${model_prefix}/${cot}/output_${split}.jsonl
+  result_file: ${paths.result_root}/${model_prefix}/${cot}/result_${split}.txt
+
+defaults:  
+  - _self_
+  - override hydra/hydra_logging: disabled  
+  - override hydra/job_logging: disabled
+ 
+
+hydra:
+  job:
+    chdir: False
+  output_subdir: null
+
+
+
+
+

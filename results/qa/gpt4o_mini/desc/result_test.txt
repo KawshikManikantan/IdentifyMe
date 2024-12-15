@@ -1,0 +1,6 @@
+Total: 1200
+Correct: 760
+Other Correct: 75
+Phrase Correct: 1110
+Correlation Count: 701
+Accuracy: 760/1200 = 0.6333333333333333

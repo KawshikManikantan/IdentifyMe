@@ -1,0 +1,6 @@
+Total: 1197
+Correct: 884
+Other Correct: 36
+Phrase Correct: 1106
+Correlation Count: 823
+Accuracy: 884/1197 = 0.7385129490392648

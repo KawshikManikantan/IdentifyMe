@@ -1,0 +1,6 @@
+Total: 1155
+Correct: 249
+Other Correct: 45
+Phrase Correct: 65
+Correlation Count: 25
+Accuracy: 249/1155 = 0.21558441558441557

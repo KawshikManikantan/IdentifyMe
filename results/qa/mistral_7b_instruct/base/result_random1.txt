@@ -1,0 +1,6 @@
+Total: 600
+Correct: 386
+Other Correct: 0
+Phrase Correct: 514
+Correlation Count: 339
+Accuracy: 386/600 = 0.6433333333333333

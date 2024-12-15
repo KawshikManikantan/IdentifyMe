@@ -1,0 +1,1 @@
+Read the text given below. The text has an entity mention marked within """ {{mention}} (#This is the marked mention) """. Extract the mention and find who/what the mention refers to in the text.

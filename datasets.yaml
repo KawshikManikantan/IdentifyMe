@@ -1,0 +1,29 @@
+litbank:
+  name: "litbank"
+  train_file : "data/raw_data/litbank/longformer_speaker/0/train.4096.jsonlines"
+  dev_file : "data/raw_data/litbank/longformer_speaker/0/dev.4096.jsonlines"
+  test_file : "data/raw_data/litbank/longformer_speaker/0/test.4096.jsonlines"
+  train_me: "data/raw_data/litbank/chars_train_docs"
+  dev_me: "data/raw_data/litbank/chars_dev_docs"
+  test_me: "data/raw_data/litbank/chars_test_docs"
+  pred_mentions_jsonl: "data/raw_data/litbank/longformer_speaker/0/mentions_ment_model_litbank_eval.jsonl"
+  tsv: "data/raw_data/litbank/tsv"
+  dev_doc_count: 10
+  test_doc_count: 10
+
+fantasy:
+  name: "fantasy"
+  train_file: "data/raw_data/fantasy/longformer_speaker/train.4096.jsonlines"
+  dev_file: "data/raw_data/fantasy/longformer_speaker/dev.4096.jsonlines"
+  test_file: "data/raw_data/fantasy/longformer_speaker/test.4096.jsonlines"
+  train_me: data/raw_data/fantasy/chars_train_docs
+  test_me: data/raw_data/fantasy/chars_test_docs
+  pred_mentions_jsonl: "data/raw_data/fantasy/longformer_speaker/mentions_ment_model_fantasy_eval.jsonl"
+  tsv: null
+  test_doc_count: 20
+
+aft:
+  name: "aft"
+  test_file: "data/raw_data/aft/longformer_speaker/test.4096.jsonlines"
+  test_me: data/raw_data/aft/chars_test_docs
+  tsv: null

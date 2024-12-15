@@ -1,0 +1,6 @@
+Total: 600
+Correct: 411
+Other Correct: 30
+Phrase Correct: 571
+Correlation Count: 389
+Accuracy: 411/600 = 0.685

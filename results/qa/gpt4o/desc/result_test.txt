@@ -1,0 +1,6 @@
+Total: 1200
+Correct: 983
+Other Correct: 88
+Phrase Correct: 1121
+Correlation Count: 913
+Accuracy: 983/1200 = 0.8191666666666667

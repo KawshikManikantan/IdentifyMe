@@ -1,0 +1,6 @@
+Total: 1200
+Correct: 546
+Other Correct: 1
+Phrase Correct: 1055
+Correlation Count: 491
+Accuracy: 546/1200 = 0.455

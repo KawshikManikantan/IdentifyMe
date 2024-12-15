@@ -1,0 +1,6 @@
+Total: 600
+Correct: 409
+Other Correct: 27
+Phrase Correct: 0
+Correlation Count: 0
+Accuracy: 409/600 = 0.6816666666666666

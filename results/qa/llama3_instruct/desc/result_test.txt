@@ -1,0 +1,6 @@
+Total: 1200
+Correct: 640
+Other Correct: 1
+Phrase Correct: 1064
+Correlation Count: 582
+Accuracy: 640/1200 = 0.5333333333333333

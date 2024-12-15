@@ -1,0 +1,6 @@
+Total: 600
+Correct: 395
+Other Correct: 0
+Phrase Correct: 525
+Correlation Count: 352
+Accuracy: 395/600 = 0.6583333333333333
