@@ -1,3 +1,6 @@
+## Environment
+Setup the environment using `environment.yaml`
+
 ## Folder Structure
 
 ### `configs/`
