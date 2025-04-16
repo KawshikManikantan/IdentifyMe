@@ -1,6 +1,9 @@
 ## Environment
 Setup the environment using `environment.yaml`
 
+## Data
+Data is uploaded to [huggingface](https://huggingface.co/datasets/KawshikManikantan/IdentifyMe). Do not extract from zip and upload anywhere to prevent data leakage.
+
 ## Folder Structure
 
 ### `configs/`
